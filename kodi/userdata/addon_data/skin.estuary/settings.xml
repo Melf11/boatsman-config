@@ -1,13 +1,13 @@
 <settings>
     <setting id="touchmode" type="bool">false</setting>
-    <setting id="no_slide_animations" type="bool">false</setting>
-    <setting id="home_no_categories_widget" type="bool">false</setting>
-    <setting id="circle_rating" type="bool">false</setting>
     <setting id="circle_userrating" type="bool">false</setting>
-    <setting id="homemenunopicturesbutton" type="bool">false</setting>
-    <setting id="hide_mediaflags" type="bool">false</setting>
     <setting id="no_fanart" type="bool">false</setting>
+    <setting id="circle_rating" type="bool">false</setting>
+    <setting id="homemenunopicturesbutton" type="bool">false</setting>
     <setting id="homemenunomoviebutton" type="bool">false</setting>
+    <setting id="home_no_categories_widget" type="bool">false</setting>
+    <setting id="hide_mediaflags" type="bool">false</setting>
+    <setting id="no_slide_animations" type="bool">false</setting>
     <setting id="homemenunotvshowbutton" type="bool">false</setting>
     <setting id="homemenunomusicbutton" type="bool">false</setting>
     <setting id="homemenunomusicvideobutton" type="bool">false</setting>

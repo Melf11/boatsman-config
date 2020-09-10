@@ -4,7 +4,7 @@
     <setting id="gamesgeneral.enableautosave" default="true">true</setting>
     <setting id="gamesgeneral.enablerewind" default="true">false</setting>
     <setting id="gamesgeneral.rewindtime" default="true">60</setting>
-    <setting id="lookandfeel.skin" default="true">skin.estuary</setting>
+    <setting id="lookandfeel.skin">skin.embuary-matrix-moddedByRadioKoch</setting>
     <setting id="lookandfeel.skintheme" default="true">SKINDEFAULT</setting>
     <setting id="lookandfeel.skincolors" default="true">SKINDEFAULT</setting>
     <setting id="lookandfeel.font" default="true">Default</setting>
