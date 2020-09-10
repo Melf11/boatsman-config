@@ -12,11 +12,11 @@
     <setting id="lookandfeel.stereostrength" default="true">5</setting>
     <setting id="lookandfeel.enablerssfeeds" default="true">false</setting>
     <setting id="lookandfeel.rssedit" default="true" />
-    <setting id="locale.language" default="true">resource.language.en_gb</setting>
+    <setting id="locale.language">resource.language.de_de</setting>
     <setting id="locale.charset" default="true">DEFAULT</setting>
     <setting id="locale.keyboardlayouts" default="true">English QWERTY</setting>
     <setting id="locale.activekeyboardlayout" default="true">English QWERTY</setting>
-    <setting id="locale.country" default="true">USA (12h)</setting>
+    <setting id="locale.country">Belgien</setting>
     <setting id="locale.timezonecountry" default="true" />
     <setting id="locale.timezone" default="true" />
     <setting id="locale.shortdateformat" default="true">regional</setting>
