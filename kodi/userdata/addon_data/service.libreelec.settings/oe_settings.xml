@@ -17,5 +17,10 @@
 		<libreelec>
 			<wizard_completed>True</wizard_completed>
 		</libreelec>
+		<updates>
+			<AutoUpdate>manual</AutoUpdate>
+			<SubmitStats>0</SubmitStats>
+			<UpdateNotify>0</UpdateNotify>
+		</updates>
 	</settings>
 </libreelec>

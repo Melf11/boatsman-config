@@ -6,7 +6,7 @@
     <setting id="gamesgeneral.rewindtime" default="true">60</setting>
     <setting id="lookandfeel.skin">skin.embuary-matrix-moddedByRadioKoch</setting>
     <setting id="lookandfeel.skintheme" default="true">SKINDEFAULT</setting>
-    <setting id="lookandfeel.skincolors" default="true">SKINDEFAULT</setting>
+    <setting id="lookandfeel.skincolors">Blex</setting>
     <setting id="lookandfeel.font" default="true">Default</setting>
     <setting id="lookandfeel.skinzoom" default="true">0</setting>
     <setting id="lookandfeel.stereostrength" default="true">5</setting>
@@ -16,7 +16,7 @@
     <setting id="locale.charset" default="true">DEFAULT</setting>
     <setting id="locale.keyboardlayouts" default="true">English QWERTY</setting>
     <setting id="locale.activekeyboardlayout" default="true">English QWERTY</setting>
-    <setting id="locale.country">Belgien</setting>
+    <setting id="locale.country">Deutschland</setting>
     <setting id="locale.timezonecountry" default="true" />
     <setting id="locale.timezone" default="true" />
     <setting id="locale.shortdateformat" default="true">regional</setting>
@@ -46,13 +46,13 @@
     <setting id="musiclibrary.exportoverwrite" default="true">false</setting>
     <setting id="musiclibrary.exportartwork" default="true">false</setting>
     <setting id="musiclibrary.exportskipnfo" default="true">false</setting>
-    <setting id="filelists.showparentdiritems" default="true">true</setting>
+    <setting id="filelists.showparentdiritems">false</setting>
     <setting id="filelists.ignorethewhensorting" default="true">true</setting>
-    <setting id="filelists.showextensions" default="true">true</setting>
-    <setting id="filelists.showaddsourcebuttons" default="true">true</setting>
+    <setting id="filelists.showextensions">false</setting>
+    <setting id="filelists.showaddsourcebuttons">false</setting>
     <setting id="filelists.showhidden" default="true">false</setting>
     <setting id="filelists.allowfiledeletion" default="true">false</setting>
-    <setting id="myvideos.selectaction" default="true">1</setting>
+    <setting id="myvideos.selectaction">3</setting>
     <setting id="myvideos.usetags" default="true">false</setting>
     <setting id="myvideos.extractflags" default="true">true</setting>
     <setting id="myvideos.extractthumb" default="true">true</setting>
@@ -92,7 +92,7 @@
     <setting id="pictures.usetags" default="true">true</setting>
     <setting id="pictures.generatethumbs" default="true">true</setting>
     <setting id="pictures.showvideos" default="true">true</setting>
-    <setting id="pictures.displayresolution" default="true">14</setting>
+    <setting id="pictures.displayresolution">17</setting>
     <setting id="scrapers.moviesdefault" default="true">metadata.themoviedb.org</setting>
     <setting id="scrapers.tvshowsdefault" default="true">metadata.tvshows.themoviedb.org</setting>
     <setting id="scrapers.musicvideosdefault" default="true">metadata.local</setting>
@@ -125,7 +125,7 @@
     <setting id="videoplayer.prefervaapirender" default="true">true</setting>
     <setting id="videoplayer.stereoscopicplaybackmode" default="true">0</setting>
     <setting id="videoplayer.quitstereomodeonstop" default="true">true</setting>
-    <setting id="videoplayer.teletextenabled" default="true">true</setting>
+    <setting id="videoplayer.teletextenabled">false</setting>
     <setting id="videoplayer.teletextscale" default="true">true</setting>
     <setting id="musicplayer.autoplaynextitem" default="true">true</setting>
     <setting id="musicplayer.queuebydefault" default="true">false</setting>
