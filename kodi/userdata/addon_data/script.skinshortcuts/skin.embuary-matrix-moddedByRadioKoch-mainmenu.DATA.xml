@@ -15,6 +15,7 @@
 		<icon>DefaultShortcut.png</icon>
 		<thumb>image://%2fusr%2fshare%2fkodi%2faddons%2fplugin.video.embycon%2ficon.png/</thumb>
 		<action>ActivateWindow(Videos,"plugin://plugin.video.embycon/?url=%7Bserver%7D/emby/Users/%7Buserid%7D/Items%3FIncludeItemTypes%3DMovie%26CollapseBoxSetItems%3DTrue%26GroupItemsIntoCollections%3DTrue%26Recursive%3DTrue%26IsMissing%3DFalse%26Fields%3D%7Bfield_filters%7D%26ImageTypeLimit%3D1%26format%3Djson&amp;mode=GET_CONTENT&amp;media_type=movies",return)</action>
+		<disabled>True</disabled>
 	</shortcut>
 	<shortcut>
 		<defaultID />
@@ -23,6 +24,7 @@
 		<icon>DefaultShortcut.png</icon>
 		<thumb>image://%2fusr%2fshare%2fkodi%2faddons%2fplugin.video.embycon%2ficon.png/</thumb>
 		<action>ActivateWindow(Videos,"plugin://plugin.video.embycon/?url=%7Bserver%7D/emby/Users/%7Buserid%7D/Items%3FFields%3D%7Bfield_filters%7D%26ImageTypeLimit%3D1%26IsMissing%3DFalse%26IncludeItemTypes%3DSeries%26Recursive%3DTrue%26format%3Djson&amp;mode=GET_CONTENT&amp;media_type=tvshows",return)</action>
+		<disabled>True</disabled>
 	</shortcut>
 	<shortcut>
 		<defaultID>embuary_all_movies</defaultID>
@@ -64,7 +66,6 @@
 		| String.IsEqual(Window(home).Property(plugin.video.embycon-view_item.28.type),movies)
 		| String.IsEqual(Window(home).Property(plugin.video.embycon-view_item.29.type),movies)
 		]]]</visible>
-		<disabled>True</disabled>
 	</shortcut>
 	<shortcut>
 		<defaultID>embuary_collections</defaultID>
@@ -394,6 +395,7 @@
 		<thumb />
 		<action>embycon1</action>
 		<visible>[System.HasAddon(plugin.video.embycon) + [String.IsEqual(Window(home).Property(plugin.video.embycon-view_item.1.type),movies) | String.IsEqual(Window(home).Property(plugin.video.embycon-view_item.1.type),tvshows) | String.IsEqual(Window(home).Property(plugin.video.embycon-view_item.1.type),music) | String.IsEqual(Window(home).Property(plugin.video.embycon-view_item.1.type),boxsets)]]</visible>
+		<disabled>True</disabled>
 	</shortcut>
 	<shortcut>
 		<defaultID>embuary_embycon2</defaultID>
