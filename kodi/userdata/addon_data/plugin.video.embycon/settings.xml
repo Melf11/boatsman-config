@@ -1,9 +1,9 @@
 <settings version="2">
     <setting id="protocol" default="true">0</setting>
-    <setting id="ipaddress">192.168.110.20</setting>
-    <setting id="port" default="true">8096</setting>
+    <setting id="ipaddress"></setting>
+    <setting id="port" default="true"></setting>
     <setting id="verify_cert" default="true">false</setting>
-    <setting id="username">Viewer</setting>
+    <setting id="username"></setting>
     <setting id="password" default="true" />
     <setting id="save_user_to_settings">true</setting>
     <setting id="allow_password_saving">true</setting>
