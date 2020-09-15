@@ -99,12 +99,12 @@
     <setting id="videoplayer.autoplaynextitem" default="true" />
     <setting id="videoplayer.seeksteps" default="true">-600,-300,-180,-60,-30,-10,10,30,60,180,300,600</setting>
     <setting id="videoplayer.seekdelay" default="true">750</setting>
-    <setting id="videoplayer.adjustrefreshrate" default="true">0</setting>
-    <setting id="videoplayer.usedisplayasclock" default="true">false</setting>
+    <setting id="videoplayer.adjustrefreshrate">1</setting>
+    <setting id="videoplayer.usedisplayasclock">true</setting>
     <setting id="videoplayer.errorinaspect" default="true">0</setting>
     <setting id="videoplayer.stretch43" default="true">0</setting>
     <setting id="videoplayer.rendermethod" default="true">0</setting>
-    <setting id="videoplayer.hqscalers" default="true">20</setting>
+    <setting id="videoplayer.hqscalers">100</setting>
     <setting id="videoplayer.usemediacodecsurface" default="true">true</setting>
     <setting id="videoplayer.usemediacodec" default="true">true</setting>
     <setting id="videoplayer.usedxva2" default="true">true</setting>
@@ -116,7 +116,7 @@
     <setting id="videoplayer.usevdpaumpeg4" default="true">false</setting>
     <setting id="videoplayer.usevdpauvc1" default="true">true</setting>
     <setting id="videoplayer.usevaapi" default="true">true</setting>
-    <setting id="videoplayer.usevaapimpeg2" default="true">false</setting>
+    <setting id="videoplayer.usevaapimpeg2">true</setting>
     <setting id="videoplayer.usevaapimpeg4" default="true">true</setting>
     <setting id="videoplayer.usevaapivc1" default="true">true</setting>
     <setting id="videoplayer.usevaapivp8" default="true">true</setting>
