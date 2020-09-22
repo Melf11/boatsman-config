@@ -1,669 +1,669 @@
 <settings>
-    <setting id="hideholidaytheme" type="bool">true</setting>
-    <setting id="donotuseholidaythemesound" type="bool">false</setting>
-    <setting id="debuginfo" type="bool">false</setting>
-    <setting id="hidekodireset" type="bool">true</setting>
-    <setting id="embuaryinitmessage" type="bool">true</setting>
-    <setting id="hideposterlabels" type="bool">false</setting>
-    <setting id="ClearPlaylist" type="bool">true</setting>
-    <setting id="showstaticbackgroundimage" type="bool">false</setting>
-    <setting id="hidemainmenu" type="bool">false</setting>
-    <setting id="minimalfocusanimation" type="bool">false</setting>
-    <setting id="hideheaderweather" type="bool">false</setting>
-    <setting id="disableembyuserrating" type="bool">true</setting>
-    <setting id="hideepgthumboverlay" type="bool">false</setting>
-    <setting id="hidepowerhibernate" type="bool">false</setting>
-    <setting id="showrandombackgroundimage" type="bool">false</setting>
     <setting id="blurenabled" type="bool">false</setting>
-    <setting id="nominiepg" type="bool">false</setting>
-    <setting id="customdevicename" type="bool">true</setting>
-    <setting id="kioskmode" type="bool">false</setting>
-    <setting id="hidebannerlabels" type="bool">false</setting>
-    <setting id="donotpauseoninfo" type="bool">false</setting>
     <setting id="alwayscinemamode" type="bool">false</setting>
-    <setting id="hidewidelabels" type="bool">false</setting>
-    <setting id="showepgthumbvideoosd" type="bool">false</setting>
+    <setting id="hideembyconlabel" type="bool">true</setting>
+    <setting id="embuaryinitmessage" type="bool">true</setting>
+    <setting id="hidebackground" type="bool">false</setting>
+    <setting id="nominiepg" type="bool">false</setting>
+    <setting id="hideposterlabels" type="bool">false</setting>
+    <setting id="blurplayericon" type="bool">false</setting>
+    <setting id="hideepgthumboverlay" type="bool">false</setting>
+    <setting id="hidebannerlabels" type="bool">false</setting>
+    <setting id="sidepanelmainmenu" type="bool">false</setting>
+    <setting id="hidepoweridleshutdown" type="bool">false</setting>
     <setting id="hidepowerrebootnand" type="bool">true</setting>
     <setting id="hidebackgroundplayback" type="bool">false</setting>
-    <setting id="blurplayericon" type="bool">false</setting>
-    <setting id="hidepowersuspend" type="bool">true</setting>
-    <setting id="AutoLibraryTags" type="bool">true</setting>
-    <setting id="ReloadOnLogin" type="bool">true</setting>
-    <setting id="hideseasonalwidgets" type="bool">false</setting>
-    <setting id="usechannellogo" type="bool">false</setting>
-    <setting id="hidepowersettings" type="bool">false</setting>
-    <setting id="hidepoweridleshutdown" type="bool">false</setting>
-    <setting id="hidelibraryeditbuttons" type="bool">false</setting>
     <setting id="viewepisodetoggle" type="bool">false</setting>
-    <setting id="hidepvrhubgroups" type="bool">false</setting>
-    <setting id="SkinShortcuts-FullMenu" type="bool">true</setting>
-    <setting id="hideembyconlabel" type="bool">true</setting>
+    <setting id="kioskmode" type="bool">false</setting>
+    <setting id="customdevicename" type="bool">true</setting>
+    <setting id="hideholidaytheme" type="bool">true</setting>
+    <setting id="showrandombackgroundimage" type="bool">false</setting>
+    <setting id="debuginfo" type="bool">false</setting>
+    <setting id="hidekodireset" type="bool">true</setting>
+    <setting id="donotpauseoninfo" type="bool">false</setting>
+    <setting id="hidepauseosd" type="bool">false</setting>
+    <setting id="disableembyuserrating" type="bool">true</setting>
+    <setting id="startplayerfullscreen" type="bool">false</setting>
+    <setting id="hidelibraryeditbuttons" type="bool">false</setting>
+    <setting id="minimalfocusanimation" type="bool">false</setting>
+    <setting id="hidemainmenu" type="bool">false</setting>
+    <setting id="showepgthumbvideoosd" type="bool">false</setting>
+    <setting id="hidepowersettings" type="bool">false</setting>
+    <setting id="hidepowersuspend" type="bool">true</setting>
+    <setting id="donotuseholidaythemesound" type="bool">false</setting>
+    <setting id="hidepoweroff" type="bool">false</setting>
     <setting id="fontcheck" type="bool">true</setting>
-    <setting id="hidebackground" type="bool">false</setting>
+    <setting id="hidewidelabels" type="bool">false</setting>
+    <setting id="hideseasonalwidgets" type="bool">false</setting>
+    <setting id="hidepowerhibernate" type="bool">false</setting>
+    <setting id="SkinShortcuts-FullMenu" type="bool">true</setting>
+    <setting id="usechannellogo" type="bool">false</setting>
+    <setting id="hidepowerexit" type="bool">true</setting>
     <setting id="homepanellayout" type="bool">false</setting>
+    <setting id="ReloadOnLogin" type="bool">true</setting>
     <setting id="showcustomhub" type="bool">false</setting>
+    <setting id="hideheaderweather" type="bool">false</setting>
+    <setting id="ClearPlaylist" type="bool">true</setting>
+    <setting id="showstaticbackgroundimage" type="bool">false</setting>
+    <setting id="hidepvrhubgroups" type="bool">false</setting>
     <setting id="hidepowertimer" type="bool">true</setting>
     <setting id="hidepowerreboot" type="bool">false</setting>
-    <setting id="hidepowerexit" type="bool">true</setting>
-    <setting id="sidepanelmainmenu" type="bool">false</setting>
-    <setting id="hidepauseosd" type="bool">false</setting>
-    <setting id="startplayerfullscreen" type="bool">false</setting>
-    <setting id="hidepoweroff" type="bool">false</setting>
-    <setting id="tvshowhub_widget_pos_2.label" type="string">Continue watching   [COLOR lightgrey](EmbyCon node)[/COLOR]</setting>
-    <setting id="tagmixedhub_widget_pos_10.label" type="string">Because you watched (Movies)</setting>
-    <setting id="moviehub_widget_pos_30" type="string"></setting>
-    <setting id="moviehub_widget_pos_1.label" type="string">Continue watching</setting>
-    <setting id="UserWidget3_limit" type="string"></setting>
-    <setting id="userwidget18_limit.label" type="string"></setting>
-    <setting id="home_widget_pos_11.label" type="string"></setting>
-    <setting id="userwidget19_sortby.label" type="string"></setting>
-    <setting id="UserWidget2_limit" type="string"></setting>
-    <setting id="UserWidget16_sortorder" type="string"></setting>
-    <setting id="userwidget4_sortby.label" type="string"></setting>
-    <setting id="moviehub_widget_pos_30.label" type="string"></setting>
-    <setting id="tagmoviehub_widget_pos_3.label" type="string">Genres</setting>
-    <setting id="tagmoviehub_widget_pos_4.label" type="string">Recommended movies</setting>
-    <setting id="UserWidget4_path" type="string"></setting>
-    <setting id="home_widget_pos_3.label" type="string">Neueste Serien   (EmbyCon Datenbank)</setting>
-    <setting id="moviehub_widget_pos_14.label" type="string"></setting>
-    <setting id="embyconmoviehub_widget_pos_5.label" type="string">Genres</setting>
-    <setting id="UserWidget1_path" type="string"></setting>
-    <setting id="tvshowhub_widget_pos_9" type="string">W_SimilarShows</setting>
-    <setting id="tvshowhub_widget_pos_19.label" type="string"></setting>
-    <setting id="embycontvshowhub_widget_pos_5" type="string">W_EmbyConHub_RandomShows</setting>
-    <setting id="home_widget_pos_20" type="string"></setting>
-    <setting id="UserWidget16_path" type="string"></setting>
-    <setting id="moviehub_widget_pos_29.label" type="string"></setting>
-    <setting id="userwidget1_sortorder.label" type="string"></setting>
-    <setting id="userwidget1_limit.label" type="string"></setting>
-    <setting id="BlurContainer" type="string"></setting>
-    <setting id="moviehubheadline" type="string"></setting>
-    <setting id="UserWidget14_sortorder" type="string"></setting>
-    <setting id="home_widget_pos_25" type="string"></setting>
-    <setting id="tagmixedhub_widget_pos_10" type="string">W_TagHub_SimilarMovies</setting>
-    <setting id="UserWidget10_path" type="string"></setting>
-    <setting id="UserWidget18_layout.label" type="string"></setting>
-    <setting id="UserWidget1_layout.label" type="string"></setting>
-    <setting id="home_widget_pos_2" type="string">W_EmbyCon_NewMovies</setting>
-    <setting id="UserWidget24_limit" type="string"></setting>
-    <setting id="moviehub_widget_pos_4" type="string">W_EmbyCon_NewMovies</setting>
-    <setting id="UserWidget27_target.label" type="string"></setting>
-    <setting id="UserWidget16_name" type="string"></setting>
-    <setting id="moviehub_widget_pos_2.label" type="string">Continue watching   [COLOR lightgrey](EmbyCon node)[/COLOR]</setting>
-    <setting id="UserWidget4_layout.label" type="string"></setting>
-    <setting id="tvshowhub_widget_pos_21" type="string"></setting>
-    <setting id="UserWidget16_limit" type="string"></setting>
-    <setting id="UserWidget13_name" type="string"></setting>
-    <setting id="tvshowhub_widget_pos_16.label" type="string"></setting>
-    <setting id="color_thumb_fallback" type="string"></setting>
-    <setting id="userwidget24_sortby.label" type="string"></setting>
-    <setting id="UserWidget4_sortby" type="string"></setting>
-    <setting id="tvshowhub_widget_pos_5.label" type="string">Latest TV shows</setting>
-    <setting id="UserWidget18_name" type="string"></setting>
-    <setting id="UserWidget26_layout.label" type="string"></setting>
-    <setting id="userwidget20_sortby.label" type="string"></setting>
-    <setting id="UserWidget10_sortby" type="string"></setting>
-    <setting id="moviehub_widget_pos_9" type="string">W_SimilarMovies</setting>
-    <setting id="UserWidget28_sortby" type="string"></setting>
-    <setting id="UserWidget16_sortby" type="string"></setting>
-    <setting id="moviehub_widget_pos_13.label" type="string"></setting>
-    <setting id="UserWidget26_name" type="string"></setting>
-    <setting id="UserWidget22_target.label" type="string"></setting>
-    <setting id="tagmixedhub_widget_pos_3" type="string">W_TagHub_NewMovies</setting>
-    <setting id="moviehub_widget_pos_20" type="string"></setting>
-    <setting id="UserWidget21_limit" type="string"></setting>
-    <setting id="UserWidget11_limit" type="string"></setting>
-    <setting id="moviehub_widget_pos_13" type="string"></setting>
-    <setting id="tagtvshowhub_widget_pos_8" type="string">W_TagHub_RandomShows</setting>
-    <setting id="embyconmoviehub_widget_pos_2" type="string">W_EmbyConHub_NewMovies</setting>
-    <setting id="tagmoviehub_widget_pos_7.label" type="string">Random movies</setting>
-    <setting id="UserWidget6_path" type="string"></setting>
-    <setting id="userwidget9_limit.label" type="string"></setting>
-    <setting id="UserWidget24_layout.label" type="string"></setting>
-    <setting id="userwidget10_limit.label" type="string"></setting>
-    <setting id="moviehub_widget_pos_22" type="string"></setting>
-    <setting id="tagtvshowhub_widget_pos_6.label" type="string">Because you watched</setting>
-    <setting id="userwidget28_sortby.label" type="string"></setting>
-    <setting id="UserWidget19_name" type="string"></setting>
-    <setting id="embyconmoviehub_widget_pos_5" type="string">W_EmbyConHub_MovieGenres</setting>
-    <setting id="UserWidget30_target.label" type="string"></setting>
-    <setting id="home_widget_pos_1.label" type="string">Weiterschauen   (EmbyCon Datenbank)</setting>
-    <setting id="userwidget1_sortby.label" type="string"></setting>
-    <setting id="userwidget20_limit.label" type="string"></setting>
-    <setting id="UserWidget16_target.label" type="string"></setting>
-    <setting id="moviehub_widget_pos_28.label" type="string"></setting>
-    <setting id="home_widget_pos_21.label" type="string"></setting>
-    <setting id="tagtvshowhub_widget_pos_7" type="string">W_TagHub_TVShowsByGenre</setting>
-    <setting id="UserWidget8_sortorder" type="string"></setting>
-    <setting id="tvshowhub_widget_pos_18.label" type="string"></setting>
-    <setting id="UserWidget27_sortby" type="string"></setting>
-    <setting id="userwidget26_limit.label" type="string"></setting>
-    <setting id="tagmixedhub_widget_pos_9" type="string">W_TagHub_RecommendedShows</setting>
-    <setting id="TempItemLabel" type="string"></setting>
-    <setting id="UserWidget25_sortby" type="string"></setting>
-    <setting id="home_widget_pos_28" type="string"></setting>
-    <setting id="userwidget9_sortby.label" type="string"></setting>
-    <setting id="userwidget5_sortby.label" type="string"></setting>
-    <setting id="UserWidget17_limit" type="string"></setting>
-    <setting id="embyconmusichub_widget_pos_4" type="string">W_EmbyConHub_FavArtists</setting>
-    <setting id="moviehub_widget_pos_17" type="string"></setting>
-    <setting id="userwidget2_limit.label" type="string"></setting>
-    <setting id="home_widget_pos_23.label" type="string"></setting>
-    <setting id="home_widget_pos_29" type="string"></setting>
-    <setting id="home_widget_pos_22" type="string"></setting>
-    <setting id="tvshowhub_widget_pos_19" type="string"></setting>
-    <setting id="userwidget17_sortby.label" type="string"></setting>
-    <setting id="tvshowhub_widget_pos_26" type="string"></setting>
-    <setting id="moviehub_widget_pos_31" type="string"></setting>
-    <setting id="UserWidget29_layout.label" type="string"></setting>
-    <setting id="musichub_widget_pos_5" type="string">W_EmbyCon_OftenPlayedSongs</setting>
-    <setting id="UserWidget9_path" type="string"></setting>
-    <setting id="userwidget27_sortby.label" type="string"></setting>
-    <setting id="BackgroundInterval" type="string"></setting>
-    <setting id="UserWidget20_layout.label" type="string"></setting>
-    <setting id="UserWidget12_sortorder" type="string"></setting>
-    <setting id="tagtvshowhub_widget_pos_5" type="string">W_TagHub_RecommendedShows</setting>
-    <setting id="userwidget12_sortby.label" type="string"></setting>
-    <setting id="userwidget10_sortby.label" type="string"></setting>
-    <setting id="tagtvshowhub_widget_pos_5.label" type="string">Recommended TV shows</setting>
-    <setting id="home_widget_pos_19.label" type="string"></setting>
-    <setting id="home_widget_pos_27.label" type="string"></setting>
-    <setting id="tagmixedhub_widget_pos_5" type="string">W_TagHub_MovieGenres</setting>
-    <setting id="UserWidget27_sortorder" type="string"></setting>
-    <setting id="tagmixedhub_widget_pos_2.label" type="string">Next up</setting>
-    <setting id="tvshowhub_widget_pos_25" type="string"></setting>
-    <setting id="userwidget4_sortorder.label" type="string"></setting>
-    <setting id="userwidget8_limit.label" type="string"></setting>
-    <setting id="home_widget_pos_10.label" type="string"></setting>
-    <setting id="UserWidget13_target.label" type="string"></setting>
-    <setting id="UserWidget26_sortorder" type="string"></setting>
-    <setting id="userwidget6_sortby.label" type="string"></setting>
-    <setting id="userwidget15_sortorder.label" type="string"></setting>
-    <setting id="UserWidget17_target.label" type="string"></setting>
-    <setting id="embyconmoviehub_widget_pos_3.label" type="string">Recommended movies</setting>
-    <setting id="userwidget5_limit.label" type="string"></setting>
-    <setting id="UserWidget6_target.label" type="string"></setting>
-    <setting id="tvshowhub_widget_pos_22" type="string"></setting>
-    <setting id="UserWidget23_limit" type="string"></setting>
-    <setting id="tvshowhub_widget_pos_13.label" type="string"></setting>
-    <setting id="embyconmusichub_widget_pos_6" type="string">W_EmbyConHub_FavSongs</setting>
-    <setting id="userwidget28_sortorder.label" type="string"></setting>
-    <setting id="tvshowhub_widget_pos_17" type="string"></setting>
-    <setting id="UserWidget25_limit" type="string"></setting>
-    <setting id="moviehub_widget_pos_11" type="string">W_MoviesByGenre</setting>
-    <setting id="home_widget_pos_1" type="string">W_EmbyCon_InProgressMedia</setting>
-    <setting id="tagmixedhub_widget_pos_2" type="string">W_TagHub_NextUp</setting>
-    <setting id="embycontvshowhub_widget_pos_2.label" type="string">Next up</setting>
-    <setting id="embyconmusichub_widget_pos_1" type="string">W_EmbyConHub_NewAlbums</setting>
-    <setting id="home_widget_pos_19" type="string"></setting>
-    <setting id="moviehub_widget_pos_6.label" type="string">Genres   [COLOR lightgrey](EmbyCon node)[/COLOR]</setting>
-    <setting id="UserWidget17_path" type="string"></setting>
-    <setting id="userwidget5_sortorder.label" type="string"></setting>
-    <setting id="embyconmoviehub_widget_pos_1" type="string">W_EmbyConHub_InProgressMovies</setting>
-    <setting id="tagtvshowhub_widget_pos_4" type="string">W_TagHub_TVShowGenres</setting>
-    <setting id="UserWidget10_limit" type="string"></setting>
-    <setting id="moviehub_widget_pos_28" type="string"></setting>
-    <setting id="UserWidget19_path" type="string"></setting>
-    <setting id="userwidget26_sortby.label" type="string"></setting>
-    <setting id="ItemLabel" type="string"></setting>
-    <setting id="musichub_widget_pos_7" type="string">W_EmbyCon_FavAlbums</setting>
-    <setting id="tagtvshowhub_widget_pos_2" type="string">W_TagHub_NextUp</setting>
-    <setting id="UserWidget7_name" type="string"></setting>
-    <setting id="tvshowhub_widget_pos_15.label" type="string"></setting>
-    <setting id="UserWidget10_name" type="string"></setting>
+    <setting id="AutoLibraryTags" type="bool">true</setting>
     <setting id="embyconmusichub_widget_pos_3.label" type="string">Often played songs</setting>
-    <setting id="moviehub_widget_pos_23.label" type="string"></setting>
-    <setting id="UserWidget2_sortby" type="string"></setting>
-    <setting id="home_widget_pos_29.label" type="string"></setting>
-    <setting id="UserWidget13_layout.label" type="string"></setting>
-    <setting id="home_widget_pos_12" type="string"></setting>
-    <setting id="userwidget30_sortby.label" type="string"></setting>
-    <setting id="UserWidget23_name" type="string"></setting>
-    <setting id="tvshowhub_widget_pos_5" type="string">W_NewEpisodes</setting>
-    <setting id="ServiceInterval" type="string"></setting>
-    <setting id="UserWidget19_limit" type="string"></setting>
     <setting id="home_widget_pos_9" type="string"></setting>
-    <setting id="userwidget22_limit.label" type="string"></setting>
-    <setting id="musichub_widget_pos_8.label" type="string">Favourite songs   [COLOR lightgrey](EmbyCon node)[/COLOR]</setting>
-    <setting id="tvshowhub_widget_pos_7.label" type="string">Genres</setting>
-    <setting id="moviehub_widget_pos_5" type="string">W_MovieGenres</setting>
-    <setting id="UserWidget29_path" type="string"></setting>
-    <setting id="moviehub_widget_pos_12" type="string"></setting>
-    <setting id="moviehub_widget_pos_10" type="string">W_EmbyCon_SimilarMovies</setting>
-    <setting id="tagmoviehub_widget_pos_6" type="string">W_TagHub_MoviesByGenre</setting>
-    <setting id="UserWidget22_sortby" type="string"></setting>
-    <setting id="musichub_widget_pos_5.label" type="string">Often played songs   [COLOR lightgrey](EmbyCon node)[/COLOR]</setting>
-    <setting id="userwidget27_sortorder.label" type="string"></setting>
-    <setting id="tvshowhub_widget_pos_24.label" type="string"></setting>
-    <setting id="button_focus_accent" type="string"></setting>
-    <setting id="UserWidget30_sortorder" type="string"></setting>
-    <setting id="UserWidget17_sortby" type="string"></setting>
-    <setting id="UserWidget7_path" type="string"></setting>
-    <setting id="TrailerCount" type="string"></setting>
-    <setting id="home_widget_pos_16.label" type="string"></setting>
-    <setting id="moviehub_widget_pos_25.label" type="string"></setting>
-    <setting id="UserWidget22_layout.label" type="string"></setting>
-    <setting id="UserWidget29_limit" type="string"></setting>
-    <setting id="tvshowhub_widget_pos_8.label" type="string">Genres   [COLOR lightgrey](EmbyCon node)[/COLOR]</setting>
-    <setting id="tvshowhub_widget_pos_6" type="string">W_EmbyCon_NewEpisodes</setting>
-    <setting id="moviehub_widget_pos_9.label" type="string">Because you watched</setting>
-    <setting id="moviehub_widget_pos_19" type="string"></setting>
-    <setting id="UserWidget7_layout.label" type="string"></setting>
-    <setting id="TempItemType" type="string"></setting>
-    <setting id="UserWidget17_sortorder" type="string"></setting>
-    <setting id="home_widget_pos_6" type="string"></setting>
-    <setting id="UserWidget19_sortorder" type="string"></setting>
-    <setting id="UserWidget3_path" type="string"></setting>
-    <setting id="UserWidget30_path" type="string"></setting>
-    <setting id="UserWidget28_path" type="string"></setting>
-    <setting id="UserWidget15_target.label" type="string"></setting>
-    <setting id="UserWidget9_limit" type="string"></setting>
-    <setting id="tvshowhub_widget_pos_22.label" type="string"></setting>
-    <setting id="userwidget25_sortorder.label" type="string"></setting>
-    <setting id="tvshowhub_widget_pos_30" type="string"></setting>
-    <setting id="userwidget7_limit.label" type="string"></setting>
-    <setting id="embyconmoviehub_widget_pos_3" type="string">W_EmbyConHub_RecommendedMovies</setting>
-    <setting id="moviehub_widget_pos_14" type="string"></setting>
-    <setting id="UserWidget25_sortorder" type="string"></setting>
-    <setting id="UserWidget2_target.label" type="string"></setting>
-    <setting id="UserWidget2_sortorder" type="string"></setting>
-    <setting id="UserWidget1_limit" type="string"></setting>
-    <setting id="home_widget_pos_5.label" type="string"></setting>
-    <setting id="embyconmusichub_widget_pos_1.label" type="string">Latest albums</setting>
-    <setting id="customsearchterm" type="string">der hobbit</setting>
-    <setting id="tvshowhub_widget_pos_14.label" type="string"></setting>
-    <setting id="userwidget11_sortby.label" type="string"></setting>
-    <setting id="UserWidget2_layout.label" type="string"></setting>
-    <setting id="UserWidget14_layout.label" type="string"></setting>
-    <setting id="userwidget29_limit.label" type="string"></setting>
-    <setting id="userwidget26_sortorder.label" type="string"></setting>
-    <setting id="embycontvshowhub_widget_pos_6.label" type="string">Genres</setting>
-    <setting id="moviehub_widget_pos_21.label" type="string"></setting>
-    <setting id="UserWidget14_sortby" type="string"></setting>
-    <setting id="moviehub_widget_pos_10.label" type="string">Because you watched   [COLOR lightgrey](EmbyCon node)[/COLOR]</setting>
-    <setting id="wide_widget_limit" type="string"></setting>
-    <setting id="userwidget23_sortorder.label" type="string"></setting>
-    <setting id="userwidget25_limit.label" type="string"></setting>
-    <setting id="home_widget_pos_31" type="string"></setting>
-    <setting id="userwidget20_sortorder.label" type="string"></setting>
-    <setting id="home_widget_pos_18.label" type="string"></setting>
-    <setting id="UserWidget23_target.label" type="string"></setting>
-    <setting id="UserWidget12_name" type="string"></setting>
-    <setting id="tvshowhub_widget_pos_12" type="string">W_TVShowsByGenre</setting>
-    <setting id="UserWidget20_limit" type="string"></setting>
-    <setting id="UserWidget24_name" type="string"></setting>
-    <setting id="userwidget21_sortorder.label" type="string"></setting>
-    <setting id="tvshowhub_widget_pos_17.label" type="string"></setting>
-    <setting id="UserWidget19_sortby" type="string"></setting>
-    <setting id="tvshowhub_widget_pos_24" type="string"></setting>
-    <setting id="musichub_widget_pos_4" type="string">W_OftenPlayedSongs</setting>
-    <setting id="UserWidget24_sortorder" type="string"></setting>
-    <setting id="embycontvshowhub_widget_pos_5.label" type="string">Random TV shows</setting>
-    <setting id="UserWidget4_limit" type="string"></setting>
-    <setting id="tvshowhub_widget_pos_1" type="string">W_InProgressShows</setting>
-    <setting id="UserWidget2_path" type="string"></setting>
-    <setting id="tvshowhub_widget_pos_23.label" type="string"></setting>
-    <setting id="moviehub_widget_pos_22.label" type="string"></setting>
-    <setting id="moviehub_widget_pos_12.label" type="string"></setting>
-    <setting id="UserWidget11_sortby" type="string"></setting>
-    <setting id="tvshowhub_widget_pos_25.label" type="string"></setting>
-    <setting id="moviehub_widget_pos_7" type="string">W_RecommendedMovies</setting>
-    <setting id="musichub_widget_pos_4.label" type="string">Often played songs</setting>
-    <setting id="UserWidget8_limit" type="string"></setting>
-    <setting id="tvshowhub_widget_pos_11.label" type="string">Recommended TV shows   [COLOR lightgrey](EmbyCon node)[/COLOR]</setting>
-    <setting id="tagtvshowhub_widget_pos_8.label" type="string">Random TV shows</setting>
-    <setting id="musichub_widget_pos_1.label" type="string">Latest albums</setting>
-    <setting id="UserWidget14_path" type="string"></setting>
-    <setting id="home_widget_pos_20.label" type="string"></setting>
-    <setting id="UserWidget29_sortorder" type="string"></setting>
-    <setting id="UserWidget29_name" type="string"></setting>
-    <setting id="UserWidget16_layout.label" type="string"></setting>
-    <setting id="home_widget_pos_7.label" type="string"></setting>
-    <setting id="customdevicename_label" type="string">Wilkommen an Board</setting>
-    <setting id="userwidget8_sortby.label" type="string"></setting>
-    <setting id="home_widget_pos_24.label" type="string"></setting>
-    <setting id="userwidget22_sortorder.label" type="string"></setting>
-    <setting id="moviehub_widget_pos_29" type="string"></setting>
-    <setting id="UserWidget15_path" type="string"></setting>
-    <setting id="UserWidget30_sortby" type="string"></setting>
-    <setting id="UserWidget4_sortorder" type="string"></setting>
-    <setting id="UserWidget7_target.label" type="string"></setting>
-    <setting id="musichub_widget_pos_3" type="string">W_PlayedAlbums</setting>
-    <setting id="moviehub_widget_pos_18.label" type="string"></setting>
-    <setting id="embyconmusichub_widget_pos_4.label" type="string">Favourite artists</setting>
-    <setting id="userwidget8_sortorder.label" type="string"></setting>
-    <setting id="UserWidget28_name" type="string"></setting>
-    <setting id="moviehub_widget_pos_5.label" type="string">Genres</setting>
-    <setting id="UserWidget3_sortby" type="string"></setting>
-    <setting id="home_widget_pos_14.label" type="string"></setting>
-    <setting id="BlurRadius" type="string">9</setting>
-    <setting id="UserWidget15_sortorder" type="string"></setting>
-    <setting id="UserWidget24_sortby" type="string"></setting>
+    <setting id="musichub_widget_pos_7.label" type="string">Favourite albums   [COLOR lightgrey](EmbyCon node)[/COLOR]</setting>
+    <setting id="moviehub_widget_pos_16" type="string"></setting>
+    <setting id="UserWidget4_layout.label" type="string"></setting>
     <setting id="moviehub_widget_pos_15" type="string"></setting>
-    <setting id="userwidget30_sortorder.label" type="string"></setting>
-    <setting id="home_widget_pos_24" type="string"></setting>
-    <setting id="UserWidget1_name" type="string"></setting>
-    <setting id="userwidget13_sortorder.label" type="string"></setting>
-    <setting id="userwidget19_sortorder.label" type="string"></setting>
-    <setting id="UserWidget27_layout.label" type="string"></setting>
-    <setting id="UserWidget30_layout.label" type="string"></setting>
-    <setting id="tvshowhub_widget_pos_11" type="string">W_EmbyCon_RecommendedShows</setting>
+    <setting id="userwidget22_limit.label" type="string"></setting>
+    <setting id="tagmoviehub_widget_pos_4.label" type="string">Recommended movies</setting>
+    <setting id="UserWidget25_path" type="string"></setting>
+    <setting id="musichub_widget_pos_4.label" type="string">Often played songs</setting>
+    <setting id="home_widget_pos_4" type="string"></setting>
+    <setting id="home_widget_pos_23" type="string"></setting>
+    <setting id="embycontvshowhub_widget_pos_4" type="string">W_EmbyConHub_RecommendedShows</setting>
+    <setting id="home_widget_pos_26" type="string"></setting>
+    <setting id="UserWidget7_layout.label" type="string"></setting>
+    <setting id="home_widget_pos_25" type="string"></setting>
+    <setting id="tagmoviehub_widget_pos_4" type="string">W_TagHub_RecommendedMovies</setting>
+    <setting id="moviehub_widget_pos_26" type="string"></setting>
+    <setting id="userwidget5_limit.label" type="string"></setting>
+    <setting id="UserWidget29_sortby" type="string"></setting>
+    <setting id="UserWidget12_path" type="string"></setting>
+    <setting id="tvshowhub_widget_pos_18" type="string"></setting>
+    <setting id="moviehub_widget_pos_5.label" type="string">Genres</setting>
+    <setting id="moviehub_widget_pos_27" type="string"></setting>
+    <setting id="UserWidget30_name" type="string"></setting>
+    <setting id="moviehub_widget_pos_25" type="string"></setting>
+    <setting id="userwidget15_limit.label" type="string"></setting>
+    <setting id="userwidget18_limit.label" type="string"></setting>
+    <setting id="UserWidget9_sortorder" type="string"></setting>
+    <setting id="tvshowhub_widget_pos_20" type="string"></setting>
+    <setting id="UserWidget17_sortby" type="string"></setting>
+    <setting id="UserWidget18_path" type="string"></setting>
+    <setting id="UserWidget30_path" type="string"></setting>
+    <setting id="UserWidget14_sortby" type="string"></setting>
+    <setting id="UserWidget7_limit" type="string"></setting>
+    <setting id="moviehub_widget_pos_29.label" type="string"></setting>
+    <setting id="UserWidget2_limit" type="string"></setting>
+    <setting id="musichub_widget_pos_5" type="string">W_EmbyCon_OftenPlayedSongs</setting>
+    <setting id="tagmixedhub_widget_pos_9" type="string">W_TagHub_RecommendedShows</setting>
+    <setting id="home_widget_pos_11.label" type="string"></setting>
+    <setting id="color_accent" type="string"></setting>
+    <setting id="UserWidget7_name" type="string"></setting>
+    <setting id="moviehub_widget_pos_30" type="string"></setting>
+    <setting id="embyconmoviehub_widget_pos_4" type="string">W_EmbyConHub_RandomMovies</setting>
+    <setting id="home_widget_pos_4.label" type="string"></setting>
+    <setting id="moviehub_widget_pos_19.label" type="string"></setting>
+    <setting id="tagmixedhub_widget_pos_3.label" type="string">Latest movies</setting>
+    <setting id="userwidget10_sortby.label" type="string"></setting>
+    <setting id="tvshowhub_widget_pos_2" type="string">W_EmbyCon_InProgressShows</setting>
+    <setting id="tvshowhub_widget_pos_5" type="string">W_NewEpisodes</setting>
+    <setting id="UserWidget8_name" type="string"></setting>
+    <setting id="home_widget_pos_7" type="string"></setting>
+    <setting id="moviehub_widget_pos_23" type="string"></setting>
+    <setting id="UserWidget5_sortorder" type="string"></setting>
+    <setting id="UserWidget13_sortorder" type="string"></setting>
+    <setting id="UserWidget25_limit" type="string"></setting>
+    <setting id="userwidget24_limit.label" type="string"></setting>
+    <setting id="home_widget_pos_15" type="string"></setting>
+    <setting id="UserWidget8_sortorder" type="string"></setting>
+    <setting id="tvshowhub_widget_pos_26.label" type="string"></setting>
+    <setting id="UserWidget1_sortorder" type="string"></setting>
+    <setting id="userwidget30_limit.label" type="string"></setting>
+    <setting id="userwidget27_sortby.label" type="string"></setting>
+    <setting id="UserWidget1_limit" type="string"></setting>
+    <setting id="tagmoviehub_widget_pos_7.label" type="string">Random movies</setting>
+    <setting id="tagmoviehub_widget_pos_1.label" type="string">Continue watching</setting>
+    <setting id="UserWidget25_sortby" type="string"></setting>
+    <setting id="userwidget2_limit.label" type="string"></setting>
+    <setting id="moviehub_widget_pos_7.label" type="string">Recommended movies</setting>
+    <setting id="UserWidget7_target.label" type="string"></setting>
+    <setting id="tvshowhub_widget_pos_19.label" type="string"></setting>
+    <setting id="UserWidget30_sortorder" type="string"></setting>
     <setting id="UserWidget10_sortorder" type="string"></setting>
     <setting id="UserWidget21_layout.label" type="string"></setting>
-    <setting id="home_widget_pos_9.label" type="string"></setting>
-    <setting id="UserWidget5_name" type="string"></setting>
-    <setting id="userwidget21_limit.label" type="string"></setting>
-    <setting id="musichub_widget_pos_8" type="string">W_EmbyCon_FavSongs</setting>
-    <setting id="userwidget11_limit.label" type="string"></setting>
-    <setting id="UserWidget18_limit" type="string"></setting>
-    <setting id="UserWidget9_layout.label" type="string"></setting>
-    <setting id="UserWidget1_target.label" type="string"></setting>
-    <setting id="tvshowhub_widget_pos_10" type="string">W_RecommendedShows</setting>
-    <setting id="tagmoviehub_widget_pos_1.label" type="string">Continue watching</setting>
-    <setting id="UserWidget27_name" type="string"></setting>
-    <setting id="userwidget13_sortby.label" type="string"></setting>
-    <setting id="UserWidget14_name" type="string"></setting>
-    <setting id="userwidget21_sortby.label" type="string"></setting>
-    <setting id="UserWidget4_name" type="string"></setting>
-    <setting id="UserWidget12_layout.label" type="string"></setting>
-    <setting id="UserWidget5_target.label" type="string"></setting>
-    <setting id="moviehub_widget_pos_20.label" type="string"></setting>
-    <setting id="userwidget9_sortorder.label" type="string"></setting>
-    <setting id="tvshowhub_widget_pos_6.label" type="string">Latest TV shows   [COLOR lightgrey](EmbyCon node)[/COLOR]</setting>
-    <setting id="userwidget12_limit.label" type="string"></setting>
-    <setting id="embyconmusichub_widget_pos_3" type="string">W_EmbyConHub_OftenPlayed</setting>
-    <setting id="UserWidget8_target.label" type="string"></setting>
-    <setting id="userwidget25_sortby.label" type="string"></setting>
-    <setting id="tvshowhubheadline" type="string"></setting>
-    <setting id="userwidget16_limit.label" type="string"></setting>
-    <setting id="poster_widget_limit" type="string"></setting>
-    <setting id="UserWidget10_layout.label" type="string"></setting>
-    <setting id="tvshowhub_widget_pos_20.label" type="string"></setting>
-    <setting id="tagmixedhub_widget_pos_1.label" type="string">Continue watching</setting>
-    <setting id="tvshowhub_widget_pos_1.label" type="string">Continue watching</setting>
-    <setting id="home_widget_pos_22.label" type="string"></setting>
-    <setting id="UserWidget20_sortorder" type="string"></setting>
+    <setting id="TempItemLabel" type="string"></setting>
+    <setting id="home_widget_pos_29" type="string"></setting>
+    <setting id="UserWidget3_path" type="string"></setting>
+    <setting id="userwidget13_limit.label" type="string"></setting>
+    <setting id="tagmixedhub_widget_pos_9.label" type="string">Recommended TV shows</setting>
+    <setting id="randombackgroundimage" type="string"></setting>
+    <setting id="userwidget9_limit.label" type="string"></setting>
+    <setting id="tvshowhub_widget_pos_12" type="string">W_TVShowsByGenre</setting>
+    <setting id="userwidget2_sortorder.label" type="string"></setting>
+    <setting id="tvshowhub_widget_pos_8" type="string">W_EmbyCon_TVShowGenres</setting>
+    <setting id="UserWidget18_sortorder" type="string"></setting>
+    <setting id="UserWidget22_sortorder" type="string"></setting>
+    <setting id="moviehub_widget_pos_2.label" type="string">Continue watching   [COLOR lightgrey](EmbyCon node)[/COLOR]</setting>
+    <setting id="UserWidget22_layout.label" type="string"></setting>
+    <setting id="tagtvshowhub_widget_pos_5.label" type="string">Recommended TV shows</setting>
     <setting id="home_widget_pos_8" type="string"></setting>
-    <setting id="UserWidget6_sortorder" type="string"></setting>
-    <setting id="UserWidget2_name" type="string"></setting>
+    <setting id="userwidget13_sortorder.label" type="string"></setting>
+    <setting id="UserWidget11_name" type="string"></setting>
+    <setting id="tagmoviehub_widget_pos_3.label" type="string">Genres</setting>
+    <setting id="tvshowhub_widget_pos_29" type="string"></setting>
     <setting id="UserWidget8_sortby" type="string"></setting>
-    <setting id="home_widget_pos_3" type="string">W_EmbyCon_NewEpisodes</setting>
-    <setting id="UserWidget5_limit" type="string"></setting>
-    <setting id="tvshowhub_widget_pos_28" type="string"></setting>
-    <setting id="home_widget_pos_15.label" type="string"></setting>
-    <setting id="UserWidget8_name" type="string"></setting>
-    <setting id="tvshowhub_widget_pos_4.label" type="string">Next up   [COLOR lightgrey](EmbyCon node)[/COLOR]</setting>
-    <setting id="tagmoviehub_widget_pos_7" type="string">W_TagHub_RandomMovies</setting>
-    <setting id="userwidget3_sortby.label" type="string"></setting>
-    <setting id="UserWidget11_path" type="string"></setting>
-    <setting id="startupwindow" type="string"></setting>
-    <setting id="UserWidget12_target.label" type="string"></setting>
-    <setting id="tagmixedhub_widget_pos_1" type="string">W_TagHub_InProgress</setting>
-    <setting id="home_widget_pos_18" type="string"></setting>
-    <setting id="UserWidget28_target.label" type="string"></setting>
-    <setting id="userwidget6_limit.label" type="string"></setting>
-    <setting id="tagtvshowhub_widget_pos_1.label" type="string">Continue watching</setting>
+    <setting id="home_widget_pos_30" type="string"></setting>
+    <setting id="tagtvshowhub_widget_pos_6" type="string">W_TagHub_SimilarShows</setting>
+    <setting id="tvshowhub_widget_pos_17" type="string"></setting>
+    <setting id="userwidget7_limit.label" type="string"></setting>
     <setting id="UserWidget5_layout.label" type="string"></setting>
     <setting id="UserWidget6_limit" type="string"></setting>
-    <setting id="userwidget7_sortby.label" type="string"></setting>
-    <setting id="musichub_widget_pos_6" type="string">W_EmbyCon_FavArtists</setting>
-    <setting id="UserWidget20_name" type="string"></setting>
-    <setting id="UserWidget9_name" type="string"></setting>
-    <setting id="UserWidget11_layout.label" type="string"></setting>
-    <setting id="userwidget24_limit.label" type="string"></setting>
-    <setting id="moviehub_widget_pos_3" type="string">W_NewMovies</setting>
-    <setting id="UserWidget7_sortorder" type="string"></setting>
-    <setting id="musichub_widget_pos_3.label" type="string">Recently played albums</setting>
-    <setting id="tvshowhub_widget_pos_18" type="string"></setting>
-    <setting id="userwidget2_sortby.label" type="string"></setting>
-    <setting id="userwidget12_sortorder.label" type="string"></setting>
-    <setting id="userwidget22_sortby.label" type="string"></setting>
-    <setting id="UserWidget22_limit" type="string"></setting>
-    <setting id="tagmoviehub_widget_pos_2" type="string">W_TagHub_NewMovies</setting>
-    <setting id="tvshowhub_widget_pos_21.label" type="string"></setting>
-    <setting id="userwidget18_sortorder.label" type="string"></setting>
-    <setting id="staticbackgroundimage" type="string"></setting>
-    <setting id="tvshowhub_widget_pos_23" type="string"></setting>
-    <setting id="UserWidget26_path" type="string"></setting>
-    <setting id="tvshowhub_widget_pos_12.label" type="string">Suggestions by genre</setting>
-    <setting id="UserWidget3_name" type="string"></setting>
-    <setting id="userwidget23_limit.label" type="string"></setting>
-    <setting id="moviehub_widget_pos_26.label" type="string"></setting>
-    <setting id="UserWidget5_path" type="string"></setting>
-    <setting id="userwidget13_limit.label" type="string"></setting>
-    <setting id="UserWidget28_sortorder" type="string"></setting>
-    <setting id="tagmixedhub_widget_pos_5.label" type="string">Movie genres</setting>
-    <setting id="userwidget23_sortby.label" type="string"></setting>
-    <setting id="UserWidget28_layout.label" type="string"></setting>
-    <setting id="embyconmusichub_widget_pos_6.label" type="string">Favourite songs</setting>
-    <setting id="home_widget_pos_8.label" type="string"></setting>
-    <setting id="UserWidget20_target.label" type="string"></setting>
-    <setting id="userwidget29_sortby.label" type="string"></setting>
-    <setting id="moviehub_widget_pos_2" type="string">W_EmbyCon_InProgressMovies</setting>
-    <setting id="tvshowhub_widget_pos_8" type="string">W_EmbyCon_TVShowGenres</setting>
-    <setting id="tagmoviehub_widget_pos_6.label" type="string">Suggestions by genre</setting>
-    <setting id="UserWidget9_sortby" type="string"></setting>
-    <setting id="home_widget_pos_25.label" type="string"></setting>
-    <setting id="tagmixedhub_widget_pos_8" type="string">W_TagHub_RecommendedMovies</setting>
-    <setting id="userwidget27_limit.label" type="string"></setting>
-    <setting id="tagmixedhub_widget_pos_6" type="string">W_TagHub_TVShowGenres</setting>
-    <setting id="UserWidget10_target.label" type="string"></setting>
-    <setting id="UserWidget22_path" type="string"></setting>
-    <setting id="UserWidget5_sortby" type="string"></setting>
-    <setting id="tagtvshowhub_widget_pos_6" type="string">W_TagHub_SimilarShows</setting>
-    <setting id="UserWidget21_sortorder" type="string"></setting>
-    <setting id="moviehub_widget_pos_16.label" type="string"></setting>
-    <setting id="embyconmusichub_widget_pos_2" type="string">W_EmbyConHub_PlayedSongs</setting>
-    <setting id="home_widget_pos_26.label" type="string"></setting>
-    <setting id="moviehub_widget_pos_23" type="string"></setting>
-    <setting id="embycontvshowhub_widget_pos_4" type="string">W_EmbyConHub_RecommendedShows</setting>
-    <setting id="UserWidget21_name" type="string"></setting>
-    <setting id="tvshowhub_widget_pos_29.label" type="string"></setting>
-    <setting id="moviehub_widget_pos_15.label" type="string"></setting>
-    <setting id="moviehub_widget_pos_4.label" type="string">Latest movies   [COLOR lightgrey](EmbyCon node)[/COLOR]</setting>
-    <setting id="moviehub_widget_pos_7.label" type="string">Recommended movies</setting>
-    <setting id="UserWidget22_name" type="string"></setting>
-    <setting id="tvshowhub_widget_pos_27.label" type="string"></setting>
-    <setting id="moviehub_widget_pos_24.label" type="string"></setting>
-    <setting id="tagmoviehub_widget_pos_2.label" type="string">Latest movies</setting>
-    <setting id="home_widget_pos_26" type="string"></setting>
-    <setting id="tvshowhub_widget_pos_27" type="string"></setting>
-    <setting id="UserWidget4_target.label" type="string"></setting>
-    <setting id="home_widget_pos_12.label" type="string"></setting>
-    <setting id="tvshowhub_widget_pos_7" type="string">W_TVShowGenres</setting>
-    <setting id="moviehub_widget_pos_3.label" type="string">Latest movies</setting>
-    <setting id="tagmoviehub_widget_pos_1" type="string">W_TagHub_InProgressMovies</setting>
-    <setting id="UserWidget6_name" type="string"></setting>
-    <setting id="customhubheadline" type="string"></setting>
-    <setting id="UserWidget13_limit" type="string"></setting>
-    <setting id="UserWidget21_sortby" type="string"></setting>
-    <setting id="tagtvshowhub_widget_pos_4.label" type="string">Genres</setting>
-    <setting id="tagmixedhub_widget_pos_7" type="string">W_TagHub_MixedByGenre</setting>
-    <setting id="tvshowhub_widget_pos_28.label" type="string"></setting>
-    <setting id="tagmoviehub_widget_pos_5" type="string">W_TagHub_SimilarMovies</setting>
-    <setting id="UserWidget25_path" type="string"></setting>
-    <setting id="home_widget_pos_17" type="string"></setting>
-    <setting id="userwidget6_sortorder.label" type="string"></setting>
-    <setting id="home_widget_pos_10" type="string"></setting>
-    <setting id="UserWidget7_limit" type="string"></setting>
-    <setting id="UserWidget30_name" type="string"></setting>
-    <setting id="UserWidget6_sortby" type="string"></setting>
-    <setting id="userwidget4_limit.label" type="string"></setting>
-    <setting id="UserWidget21_path" type="string"></setting>
-    <setting id="IntroPath" type="string"></setting>
-    <setting id="moviehub_widget_pos_16" type="string"></setting>
-    <setting id="UserWidget7_sortby" type="string"></setting>
-    <setting id="UserWidget11_name" type="string"></setting>
-    <setting id="UserWidget1_sortorder" type="string"></setting>
-    <setting id="tagmoviehub_widget_pos_5.label" type="string">Because you watched</setting>
-    <setting id="home_widget_pos_28.label" type="string"></setting>
-    <setting id="UserWidget25_layout.label" type="string"></setting>
-    <setting id="home_widget_pos_17.label" type="string"></setting>
-    <setting id="color_accent" type="string"></setting>
-    <setting id="UserWidget13_sortorder" type="string"></setting>
-    <setting id="UserWidget23_sortorder" type="string"></setting>
-    <setting id="UserWidget26_sortby" type="string"></setting>
-    <setting id="UserWidget11_target.label" type="string"></setting>
-    <setting id="moviehub_widget_pos_8" type="string">W_EmbyCon_RecommendedMovies</setting>
-    <setting id="tvshowhub_widget_pos_26.label" type="string"></setting>
-    <setting id="UserWidget18_sortby" type="string"></setting>
-    <setting id="tagmixedhub_widget_pos_7.label" type="string">Suggestions by genre</setting>
-    <setting id="UserWidget23_layout.label" type="string"></setting>
+    <setting id="userwidget13_sortby.label" type="string"></setting>
+    <setting id="UserWidget21_limit" type="string"></setting>
+    <setting id="UserWidget15_target.label" type="string"></setting>
     <setting id="tvshowhub_widget_pos_14" type="string"></setting>
-    <setting id="UserWidget20_path" type="string"></setting>
-    <setting id="moviehub_widget_pos_6" type="string">W_EmbyCon_MovieGenres</setting>
-    <setting id="embycontvshowhub_widget_pos_4.label" type="string">Recommended TV shows</setting>
-    <setting id="embycontvshowhub_widget_pos_3.label" type="string">Latest TV shows</setting>
-    <setting id="tvshowhub_widget_pos_16" type="string"></setting>
-    <setting id="UserWidget24_target.label" type="string"></setting>
-    <setting id="UserWidget12_limit" type="string"></setting>
-    <setting id="tvshowhub_widget_pos_13" type="string"></setting>
-    <setting id="moviehub_widget_pos_26" type="string"></setting>
-    <setting id="backgroundopacity" type="string">bright</setting>
-    <setting id="UserWidget30_limit" type="string"></setting>
-    <setting id="embycontvshowhub_widget_pos_2" type="string">W_EmbyConHub_NextUp</setting>
-    <setting id="UserWidget17_layout.label" type="string"></setting>
-    <setting id="UserWidget9_target.label" type="string"></setting>
-    <setting id="moviehub_widget_pos_21" type="string"></setting>
-    <setting id="UserWidget27_limit" type="string"></setting>
-    <setting id="moviehub_widget_pos_25" type="string"></setting>
-    <setting id="tagmixedhub_widget_pos_12" type="string">W_TagHub_RandomMovies</setting>
-    <setting id="UserWidget15_layout.label" type="string"></setting>
-    <setting id="tvshowhub_widget_pos_15" type="string"></setting>
-    <setting id="UserWidget19_layout.label" type="string"></setting>
-    <setting id="userwidget29_sortorder.label" type="string"></setting>
-    <setting id="tagmixedhub_widget_pos_11.label" type="string">Because you watched (TV shows)</setting>
-    <setting id="userwidget19_limit.label" type="string"></setting>
-    <setting id="UserWidget27_path" type="string"></setting>
-    <setting id="userwidget14_sortby.label" type="string"></setting>
-    <setting id="embycontvshowhub_widget_pos_1.label" type="string">Continue watching</setting>
-    <setting id="userwidget16_sortby.label" type="string"></setting>
-    <setting id="home_widget_pos_30" type="string"></setting>
-    <setting id="home_widget_pos_21" type="string"></setting>
-    <setting id="embycontvshowhub_widget_pos_1" type="string">W_EmbyConHub_InProgressShows</setting>
-    <setting id="userwidget17_sortorder.label" type="string"></setting>
-    <setting id="UserWidget15_limit" type="string"></setting>
-    <setting id="UserWidget14_target.label" type="string"></setting>
-    <setting id="userwidget14_limit.label" type="string"></setting>
-    <setting id="home_widget_pos_4" type="string"></setting>
-    <setting id="tagmixedhub_widget_pos_4.label" type="string">Latest TV shows</setting>
-    <setting id="moviehub_widget_pos_19.label" type="string"></setting>
-    <setting id="userwidget7_sortorder.label" type="string"></setting>
-    <setting id="embyconmoviehub_widget_pos_4.label" type="string">Random movies</setting>
-    <setting id="moviehub_widget_pos_24" type="string"></setting>
-    <setting id="UserWidget26_limit" type="string"></setting>
-    <setting id="tvshowhub_widget_pos_20" type="string"></setting>
-    <setting id="embycontvshowhub_widget_pos_6" type="string">W_EmbyConHub_TVShowGenres</setting>
-    <setting id="UserWidget1_sortby" type="string"></setting>
-    <setting id="userwidget3_limit.label" type="string"></setting>
-    <setting id="tagmixedhub_widget_pos_13" type="string">W_TagHub_RandomShows</setting>
-    <setting id="UserWidget29_target.label" type="string"></setting>
-    <setting id="skinshortcuts-sharedmenu" type="string">true</setting>
-    <setting id="tagtvshowhub_widget_pos_3.label" type="string">Latest TV shows</setting>
-    <setting id="UserWidget21_target.label" type="string"></setting>
-    <setting id="tagtvshowhub_widget_pos_7.label" type="string">Suggestions by genre</setting>
-    <setting id="musichub_widget_pos_2.label" type="string">Latest albums   [COLOR lightgrey](EmbyCon node)[/COLOR]</setting>
-    <setting id="UserWidget18_target.label" type="string"></setting>
-    <setting id="home_widget_pos_16" type="string"></setting>
-    <setting id="embyconmusichub_widget_pos_5" type="string">W_EmbyConHub_FavAlbums</setting>
-    <setting id="UserWidget12_sortby" type="string"></setting>
-    <setting id="UserWidget8_path" type="string"></setting>
-    <setting id="UserWidget15_sortby" type="string"></setting>
-    <setting id="UserWidget17_name" type="string"></setting>
-    <setting id="tagmoviehub_widget_pos_3" type="string">W_TagHub_MovieGenres</setting>
-    <setting id="musichub_widget_pos_2" type="string">W_EmbyCon_NewAlbums</setting>
-    <setting id="UserWidget9_sortorder" type="string"></setting>
-    <setting id="home_widget_pos_13.label" type="string"></setting>
-    <setting id="tagmixedhub_widget_pos_9.label" type="string">Recommended TV shows</setting>
-    <setting id="UserWidget6_layout.label" type="string"></setting>
-    <setting id="UserWidget25_name" type="string"></setting>
-    <setting id="embyconmoviehub_widget_pos_2.label" type="string">Latest movies</setting>
-    <setting id="tvshowhub_widget_pos_2" type="string">W_EmbyCon_InProgressShows</setting>
-    <setting id="UserWidget13_path" type="string"></setting>
-    <setting id="tvshowhub_widget_pos_3" type="string">W_NextUp</setting>
-    <setting id="UserWidget29_sortby" type="string"></setting>
-    <setting id="userwidget24_sortorder.label" type="string"></setting>
-    <setting id="userwidget28_limit.label" type="string"></setting>
-    <setting id="tvshowhub_widget_pos_29" type="string"></setting>
-    <setting id="UserWidget3_sortorder" type="string"></setting>
-    <setting id="tvshowhub_widget_pos_4" type="string">W_EmbyCon_NextUp</setting>
-    <setting id="tagtvshowhub_widget_pos_3" type="string">W_TagHub_NewEpisodes</setting>
-    <setting id="tvshowhub_widget_pos_30.label" type="string"></setting>
-    <setting id="epgar" type="string"></setting>
-    <setting id="home_widget_pos_23" type="string"></setting>
-    <setting id="UserWidget11_sortorder" type="string"></setting>
-    <setting id="moviehub_widget_pos_1" type="string">W_InProgressMovies</setting>
-    <setting id="tagmixedhub_widget_pos_11" type="string">W_TagHub_SimilarShows</setting>
-    <setting id="UserWidget23_path" type="string"></setting>
-    <setting id="userwidget30_limit.label" type="string"></setting>
-    <setting id="home_widget_pos_27" type="string"></setting>
-    <setting id="cinemamodefor" type="string"></setting>
-    <setting id="tagmoviehub_widget_pos_4" type="string">W_TagHub_RecommendedMovies</setting>
-    <setting id="userwidget15_limit.label" type="string"></setting>
-    <setting id="UserWidget26_target.label" type="string"></setting>
-    <setting id="moviehub_widget_pos_8.label" type="string">Recommended movies   [COLOR lightgrey](EmbyCon node)[/COLOR]</setting>
-    <setting id="UserWidget23_sortby" type="string"></setting>
-    <setting id="tvshowhub_widget_pos_10.label" type="string">Recommended TV shows</setting>
-    <setting id="moviehub_widget_pos_27" type="string"></setting>
-    <setting id="home_widget_pos_5" type="string"></setting>
-    <setting id="tagmixedhub_widget_pos_12.label" type="string">Random movies</setting>
-    <setting id="UserWidget24_path" type="string"></setting>
-    <setting id="home_widget_pos_14" type="string"></setting>
-    <setting id="UserWidget18_sortorder" type="string"></setting>
-    <setting id="userwidget17_limit.label" type="string"></setting>
-    <setting id="tagtvshowhub_widget_pos_2.label" type="string">Next up</setting>
-    <setting id="embyconmusichub_widget_pos_2.label" type="string">Recently played songs</setting>
-    <setting id="home_widget_pos_6.label" type="string"></setting>
-    <setting id="UserWidget3_target.label" type="string"></setting>
-    <setting id="home_widget_pos_4.label" type="string"></setting>
-    <setting id="tagmixedhub_widget_pos_8.label" type="string">Recommended movies</setting>
-    <setting id="home_widget_pos_7" type="string"></setting>
-    <setting id="ItemType" type="string"></setting>
-    <setting id="tagtvshowhub_widget_pos_1" type="string">W_TagHub_InprogressEpisodes</setting>
-    <setting id="home_widget_pos_2.label" type="string">Neueste Filme   (EmbyCon Datenbank)</setting>
-    <setting id="UserWidget3_layout.label" type="string"></setting>
-    <setting id="musichub_widget_pos_6.label" type="string">Favourite artists   [COLOR lightgrey](EmbyCon node)[/COLOR]</setting>
-    <setting id="userwidget18_sortby.label" type="string"></setting>
-    <setting id="UserWidget8_layout.label" type="string"></setting>
-    <setting id="UserWidget12_path" type="string"></setting>
-    <setting id="userwidget11_sortorder.label" type="string"></setting>
-    <setting id="square_widget_limit" type="string"></setting>
-    <setting id="musichub_widget_pos_7.label" type="string">Favourite albums   [COLOR lightgrey](EmbyCon node)[/COLOR]</setting>
-    <setting id="userwidget3_sortorder.label" type="string"></setting>
-    <setting id="moviehub_widget_pos_11.label" type="string">Suggestions by genre</setting>
-    <setting id="embyconmoviehub_widget_pos_1.label" type="string">Continue watching</setting>
-    <setting id="userwidget10_sortorder.label" type="string"></setting>
-    <setting id="embycontvshowhub_widget_pos_3" type="string">W_EmbyConHub_NewEpisodes</setting>
-    <setting id="userwidget14_sortorder.label" type="string"></setting>
-    <setting id="randombackgroundimage" type="string"></setting>
-    <setting id="UserWidget18_path" type="string"></setting>
-    <setting id="moviehub_widget_pos_17.label" type="string"></setting>
-    <setting id="userwidget16_sortorder.label" type="string"></setting>
-    <setting id="tvshowhub_widget_pos_3.label" type="string">Next up</setting>
-    <setting id="UserWidget14_limit" type="string"></setting>
-    <setting id="UserWidget19_target.label" type="string"></setting>
-    <setting id="UserWidget25_target.label" type="string"></setting>
+    <setting id="userwidget7_sortby.label" type="string"></setting>
+    <setting id="customhubheadline" type="string"></setting>
     <setting id="moviehub_widget_pos_27.label" type="string"></setting>
-    <setting id="UserWidget15_name" type="string"></setting>
-    <setting id="UserWidget28_limit" type="string"></setting>
-    <setting id="embyconmusichub_widget_pos_5.label" type="string">Favourite albums</setting>
-    <setting id="home_widget_pos_13" type="string"></setting>
-    <setting id="tvshowhub_widget_pos_9.label" type="string">Because you watched</setting>
-    <setting id="tagmixedhub_widget_pos_6.label" type="string">TV show genres</setting>
-    <setting id="home_widget_pos_15" type="string"></setting>
-    <setting id="musichub_widget_pos_1" type="string">W_NewAlbums</setting>
-    <setting id="UserWidget20_sortby" type="string"></setting>
-    <setting id="userwidget15_sortby.label" type="string"></setting>
-    <setting id="UserWidget5_sortorder" type="string"></setting>
-    <setting id="userwidget2_sortorder.label" type="string"></setting>
+    <setting id="home_widget_pos_16" type="string"></setting>
+    <setting id="moviehub_widget_pos_2" type="string">W_EmbyCon_InProgressMovies</setting>
+    <setting id="UserWidget20_target.label" type="string"></setting>
+    <setting id="UserWidget9_target.label" type="string"></setting>
+    <setting id="embyconmusichub_widget_pos_5" type="string">W_EmbyConHub_FavAlbums</setting>
+    <setting id="UserWidget17_sortorder" type="string"></setting>
+    <setting id="UserWidget11_limit" type="string"></setting>
+    <setting id="userwidget1_sortorder.label" type="string"></setting>
+    <setting id="UserWidget21_sortby" type="string"></setting>
+    <setting id="UserWidget6_sortorder" type="string"></setting>
+    <setting id="moviehub_widget_pos_5" type="string">W_MovieGenres</setting>
+    <setting id="embyconmoviehub_widget_pos_2.label" type="string">Latest movies</setting>
+    <setting id="UserWidget18_sortby" type="string"></setting>
+    <setting id="moviehub_widget_pos_1.label" type="string">Continue watching</setting>
+    <setting id="UserWidget12_layout.label" type="string"></setting>
+    <setting id="UserWidget22_path" type="string"></setting>
+    <setting id="UserWidget12_target.label" type="string"></setting>
+    <setting id="embycontvshowhub_widget_pos_6.label" type="string">Genres</setting>
+    <setting id="moviehub_widget_pos_17.label" type="string"></setting>
+    <setting id="userwidget6_limit.label" type="string"></setting>
+    <setting id="home_widget_pos_19" type="string"></setting>
+    <setting id="userwidget16_sortorder.label" type="string"></setting>
+    <setting id="home_widget_pos_13.label" type="string"></setting>
+    <setting id="moviehub_widget_pos_22" type="string"></setting>
+    <setting id="UserWidget23_path" type="string"></setting>
+    <setting id="home_widget_pos_12" type="string"></setting>
+    <setting id="tvshowhubheadline" type="string"></setting>
+    <setting id="tvshowhub_widget_pos_18.label" type="string"></setting>
+    <setting id="UserWidget3_sortby" type="string"></setting>
+    <setting id="home_widget_pos_18.label" type="string"></setting>
+    <setting id="tvshowhub_widget_pos_5.label" type="string">Latest TV shows</setting>
+    <setting id="userwidget24_sortby.label" type="string"></setting>
+    <setting id="tvshowhub_widget_pos_10" type="string">W_RecommendedShows</setting>
+    <setting id="home_widget_pos_10" type="string"></setting>
+    <setting id="userwidget8_limit.label" type="string"></setting>
+    <setting id="ItemLabel" type="string"></setting>
+    <setting id="home_widget_pos_28" type="string"></setting>
+    <setting id="tvshowhub_widget_pos_7.label" type="string">Genres</setting>
+    <setting id="home_widget_pos_9.label" type="string"></setting>
+    <setting id="home_widget_pos_7.label" type="string"></setting>
+    <setting id="UserWidget14_limit" type="string"></setting>
+    <setting id="moviehub_widget_pos_9" type="string">W_SimilarMovies</setting>
+    <setting id="UserWidget21_sortorder" type="string"></setting>
+    <setting id="embyconmoviehub_widget_pos_3" type="string">W_EmbyConHub_RecommendedMovies</setting>
+    <setting id="userwidget11_sortorder.label" type="string"></setting>
+    <setting id="embyconmoviehub_widget_pos_1.label" type="string">Continue watching</setting>
+    <setting id="UserWidget1_path" type="string"></setting>
+    <setting id="embyconmusichub_widget_pos_6.label" type="string">Favourite songs</setting>
+    <setting id="UserWidget14_target.label" type="string"></setting>
+    <setting id="userwidget21_sortorder.label" type="string"></setting>
+    <setting id="tagmoviehub_widget_pos_5.label" type="string">Because you watched</setting>
+    <setting id="UserWidget15_path" type="string"></setting>
+    <setting id="UserWidget20_sortorder" type="string"></setting>
+    <setting id="UserWidget23_layout.label" type="string"></setting>
+    <setting id="UserWidget2_sortby" type="string"></setting>
+    <setting id="moviehub_widget_pos_8.label" type="string">Recommended movies   [COLOR lightgrey](EmbyCon node)[/COLOR]</setting>
+    <setting id="userwidget8_sortby.label" type="string"></setting>
+    <setting id="userwidget17_sortorder.label" type="string"></setting>
+    <setting id="moviehub_widget_pos_10" type="string">W_EmbyCon_SimilarMovies</setting>
+    <setting id="UserWidget2_name" type="string"></setting>
+    <setting id="tvshowhub_widget_pos_4" type="string">W_EmbyCon_NextUp</setting>
     <setting id="home_widget_pos_11" type="string"></setting>
-    <setting id="color_player_accent" type="string"></setting>
-    <setting id="embyconmoviehub_widget_pos_4" type="string">W_EmbyConHub_RandomMovies</setting>
-    <setting id="UserWidget22_sortorder" type="string"></setting>
-    <setting id="UserWidget13_sortby" type="string"></setting>
-    <setting id="tagmixedhub_widget_pos_13.label" type="string">Random TV shows</setting>
-    <setting id="tagmixedhub_widget_pos_3.label" type="string">Latest movies</setting>
+    <setting id="moviehub_widget_pos_13.label" type="string"></setting>
+    <setting id="square_widget_limit" type="string"></setting>
+    <setting id="home_widget_pos_5.label" type="string"></setting>
+    <setting id="UserWidget16_sortorder" type="string"></setting>
+    <setting id="UserWidget10_layout.label" type="string"></setting>
+    <setting id="tvshowhub_widget_pos_15.label" type="string"></setting>
+    <setting id="UserWidget23_limit" type="string"></setting>
+    <setting id="embyconmusichub_widget_pos_6" type="string">W_EmbyConHub_FavSongs</setting>
+    <setting id="userwidget27_sortorder.label" type="string"></setting>
+    <setting id="userwidget19_limit.label" type="string"></setting>
+    <setting id="UserWidget29_layout.label" type="string"></setting>
+    <setting id="UserWidget28_layout.label" type="string"></setting>
+    <setting id="userwidget11_sortby.label" type="string"></setting>
+    <setting id="userwidget22_sortorder.label" type="string"></setting>
+    <setting id="userwidget4_sortby.label" type="string"></setting>
+    <setting id="UserWidget13_path" type="string"></setting>
+    <setting id="UserWidget30_limit" type="string"></setting>
+    <setting id="moviehub_widget_pos_20.label" type="string"></setting>
+    <setting id="musichub_widget_pos_6" type="string">W_EmbyCon_FavArtists</setting>
+    <setting id="home_widget_pos_20.label" type="string"></setting>
+    <setting id="tagmoviehub_widget_pos_1" type="string">W_TagHub_InProgressMovies</setting>
+    <setting id="moviehub_widget_pos_28" type="string"></setting>
+    <setting id="UserWidget10_name" type="string"></setting>
+    <setting id="home_widget_pos_12.label" type="string"></setting>
+    <setting id="userwidget19_sortorder.label" type="string"></setting>
+    <setting id="UserWidget30_target.label" type="string"></setting>
+    <setting id="moviehub_widget_pos_12" type="string"></setting>
+    <setting id="musichub_widget_pos_5.label" type="string">Often played songs   [COLOR lightgrey](EmbyCon node)[/COLOR]</setting>
+    <setting id="button_focus_accent" type="string"></setting>
+    <setting id="UserWidget8_path" type="string"></setting>
+    <setting id="home_widget_pos_27" type="string"></setting>
+    <setting id="UserWidget1_name" type="string"></setting>
+    <setting id="home_widget_pos_1" type="string">W_EmbyCon_InProgressMedia</setting>
+    <setting id="userwidget25_limit.label" type="string"></setting>
+    <setting id="UserWidget19_layout.label" type="string"></setting>
+    <setting id="tvshowhub_widget_pos_11" type="string">W_EmbyCon_RecommendedShows</setting>
+    <setting id="UserWidget20_limit" type="string"></setting>
+    <setting id="UserWidget10_target.label" type="string"></setting>
+    <setting id="moviehub_widget_pos_6.label" type="string">Genres   [COLOR lightgrey](EmbyCon node)[/COLOR]</setting>
+    <setting id="embycontvshowhub_widget_pos_3" type="string">W_EmbyConHub_NewEpisodes</setting>
+    <setting id="moviehub_widget_pos_9.label" type="string">Because you watched</setting>
+    <setting id="tagmixedhub_widget_pos_5.label" type="string">Movie genres</setting>
+    <setting id="UserWidget2_path" type="string"></setting>
+    <setting id="tvshowhub_widget_pos_22" type="string"></setting>
+    <setting id="moviehub_widget_pos_1" type="string">W_InProgressMovies</setting>
+    <setting id="tvshowhub_widget_pos_1.label" type="string">Continue watching</setting>
+    <setting id="tvshowhub_widget_pos_9.label" type="string">Because you watched</setting>
+    <setting id="moviehub_widget_pos_21" type="string"></setting>
+    <setting id="UserWidget25_layout.label" type="string"></setting>
+    <setting id="color_thumb_fallback" type="string"></setting>
+    <setting id="UserWidget9_limit" type="string"></setting>
+    <setting id="embycontvshowhub_widget_pos_5.label" type="string">Random TV shows</setting>
+    <setting id="home_widget_pos_27.label" type="string"></setting>
+    <setting id="home_widget_pos_22.label" type="string"></setting>
+    <setting id="embycontvshowhub_widget_pos_2" type="string">W_EmbyConHub_NextUp</setting>
+    <setting id="UserWidget12_sortby" type="string"></setting>
+    <setting id="moviehub_widget_pos_22.label" type="string"></setting>
+    <setting id="userwidget8_sortorder.label" type="string"></setting>
+    <setting id="userwidget23_sortby.label" type="string"></setting>
+    <setting id="embyconmusichub_widget_pos_3" type="string">W_EmbyConHub_OftenPlayed</setting>
+    <setting id="BlurContainer" type="string"></setting>
+    <setting id="UserWidget14_sortorder" type="string"></setting>
+    <setting id="UserWidget14_layout.label" type="string"></setting>
+    <setting id="UserWidget4_name" type="string"></setting>
+    <setting id="UserWidget5_target.label" type="string"></setting>
+    <setting id="UserWidget21_target.label" type="string"></setting>
+    <setting id="UserWidget18_limit" type="string"></setting>
+    <setting id="userwidget25_sortorder.label" type="string"></setting>
+    <setting id="embycontvshowhub_widget_pos_5" type="string">W_EmbyConHub_RandomShows</setting>
+    <setting id="moviehub_widget_pos_28.label" type="string"></setting>
+    <setting id="userwidget29_limit.label" type="string"></setting>
+    <setting id="tagmoviehub_widget_pos_6.label" type="string">Suggestions by genre</setting>
+    <setting id="UserWidget27_name" type="string"></setting>
+    <setting id="moviehub_widget_pos_26.label" type="string"></setting>
+    <setting id="userwidget18_sortby.label" type="string"></setting>
+    <setting id="UserWidget26_target.label" type="string"></setting>
+    <setting id="UserWidget11_sortorder" type="string"></setting>
+    <setting id="tagtvshowhub_widget_pos_2.label" type="string">Next up</setting>
+    <setting id="home_widget_pos_15.label" type="string"></setting>
+    <setting id="tvshowhub_widget_pos_27.label" type="string"></setting>
+    <setting id="tagmoviehub_widget_pos_2.label" type="string">Latest movies</setting>
+    <setting id="UserWidget3_name" type="string"></setting>
+    <setting id="UserWidget16_target.label" type="string"></setting>
+    <setting id="poster_widget_limit" type="string"></setting>
+    <setting id="userwidget21_sortby.label" type="string"></setting>
+    <setting id="tagmixedhub_widget_pos_13" type="string">W_TagHub_RandomShows</setting>
+    <setting id="userwidget28_sortby.label" type="string"></setting>
+    <setting id="TrailerCount" type="string"></setting>
+    <setting id="UserWidget5_sortby" type="string"></setting>
+    <setting id="UserWidget20_layout.label" type="string"></setting>
+    <setting id="UserWidget8_target.label" type="string"></setting>
+    <setting id="userwidget20_sortby.label" type="string"></setting>
+    <setting id="UserWidget19_target.label" type="string"></setting>
+    <setting id="UserWidget3_sortorder" type="string"></setting>
+    <setting id="tvshowhub_widget_pos_30.label" type="string"></setting>
+    <setting id="embyconmusichub_widget_pos_2.label" type="string">Recently played songs</setting>
+    <setting id="tvshowhub_widget_pos_16" type="string"></setting>
+    <setting id="BackgroundInterval" type="string"></setting>
+    <setting id="UserWidget19_name" type="string"></setting>
+    <setting id="UserWidget16_sortby" type="string"></setting>
+    <setting id="UserWidget25_target.label" type="string"></setting>
+    <setting id="tvshowhub_widget_pos_14.label" type="string"></setting>
+    <setting id="moviehub_widget_pos_30.label" type="string"></setting>
+    <setting id="UserWidget26_path" type="string"></setting>
+    <setting id="userwidget22_sortby.label" type="string"></setting>
+    <setting id="UserWidget13_layout.label" type="string"></setting>
+    <setting id="UserWidget4_sortorder" type="string"></setting>
+    <setting id="BlurRadius" type="string">9</setting>
+    <setting id="embyconmoviehub_widget_pos_3.label" type="string">Recommended movies</setting>
+    <setting id="UserWidget23_name" type="string"></setting>
+    <setting id="UserWidget29_sortorder" type="string"></setting>
+    <setting id="UserWidget29_target.label" type="string"></setting>
+    <setting id="tagmoviehub_widget_pos_5" type="string">W_TagHub_SimilarMovies</setting>
+    <setting id="UserWidget11_target.label" type="string"></setting>
+    <setting id="tagtvshowhub_widget_pos_3" type="string">W_TagHub_NewEpisodes</setting>
+    <setting id="userwidget3_sortorder.label" type="string"></setting>
+    <setting id="tagmixedhub_widget_pos_2" type="string">W_TagHub_NextUp</setting>
+    <setting id="userwidget12_sortby.label" type="string"></setting>
+    <setting id="tvshowhub_widget_pos_1" type="string">W_InProgressShows</setting>
+    <setting id="UserWidget7_sortorder" type="string"></setting>
+    <setting id="backgroundopacity" type="string">bright</setting>
+    <setting id="userwidget5_sortby.label" type="string"></setting>
+    <setting id="tagmixedhub_widget_pos_11.label" type="string">Because you watched (TV shows)</setting>
+    <setting id="UserWidget22_limit" type="string"></setting>
+    <setting id="musichub_widget_pos_1.label" type="string">Latest albums</setting>
     <setting id="tagmixedhub_widget_pos_4" type="string">W_TagHub_NewEpisodes</setting>
-    <setting id="moviehub_widget_pos_18" type="string"></setting>
+    <setting id="tagmixedhub_widget_pos_7" type="string">W_TagHub_MixedByGenre</setting>
+    <setting id="tagmixedhub_widget_pos_11" type="string">W_TagHub_SimilarShows</setting>
+    <setting id="userwidget6_sortorder.label" type="string"></setting>
+    <setting id="home_widget_pos_28.label" type="string"></setting>
+    <setting id="userwidget17_limit.label" type="string"></setting>
+    <setting id="tagmixedhub_widget_pos_10.label" type="string">Because you watched (Movies)</setting>
+    <setting id="tagmixedhub_widget_pos_6.label" type="string">TV show genres</setting>
+    <setting id="home_widget_pos_6" type="string"></setting>
+    <setting id="home_widget_pos_23.label" type="string"></setting>
+    <setting id="musichub_widget_pos_4" type="string">W_OftenPlayedSongs</setting>
+    <setting id="UserWidget29_limit" type="string"></setting>
+    <setting id="UserWidget2_target.label" type="string"></setting>
+    <setting id="UserWidget29_path" type="string"></setting>
+    <setting id="userwidget9_sortorder.label" type="string"></setting>
+    <setting id="ItemType" type="string"></setting>
+    <setting id="tvshowhub_widget_pos_7" type="string">W_TVShowGenres</setting>
+    <setting id="embycontvshowhub_widget_pos_2.label" type="string">Next up</setting>
+    <setting id="UserWidget12_sortorder" type="string"></setting>
+    <setting id="home_widget_pos_29.label" type="string"></setting>
+    <setting id="userwidget5_sortorder.label" type="string"></setting>
+    <setting id="home_widget_pos_16.label" type="string"></setting>
+    <setting id="UserWidget13_name" type="string"></setting>
+    <setting id="userwidget17_sortby.label" type="string"></setting>
+    <setting id="userwidget12_limit.label" type="string"></setting>
+    <setting id="moviehub_widget_pos_21.label" type="string"></setting>
+    <setting id="musichub_widget_pos_1" type="string">W_NewAlbums</setting>
+    <setting id="tagmixedhub_widget_pos_13.label" type="string">Random TV shows</setting>
+    <setting id="UserWidget5_limit" type="string"></setting>
+    <setting id="musichub_widget_pos_2.label" type="string">Latest albums   [COLOR lightgrey](EmbyCon node)[/COLOR]</setting>
+    <setting id="userwidget23_sortorder.label" type="string"></setting>
+    <setting id="UserWidget20_path" type="string"></setting>
+    <setting id="UserWidget17_name" type="string"></setting>
+    <setting id="UserWidget30_sortby" type="string"></setting>
+    <setting id="UserWidget23_sortby" type="string"></setting>
+    <setting id="UserWidget17_layout.label" type="string"></setting>
+    <setting id="UserWidget15_limit" type="string"></setting>
+    <setting id="userwidget9_sortby.label" type="string"></setting>
+    <setting id="userwidget23_limit.label" type="string"></setting>
+    <setting id="embyconmoviehub_widget_pos_5.label" type="string">Genres</setting>
+    <setting id="UserWidget24_layout.label" type="string"></setting>
+    <setting id="moviehub_widget_pos_23.label" type="string"></setting>
+    <setting id="moviehub_widget_pos_31" type="string"></setting>
+    <setting id="moviehub_widget_pos_8" type="string">W_EmbyCon_RecommendedMovies</setting>
+    <setting id="tagmixedhub_widget_pos_12.label" type="string">Random movies</setting>
+    <setting id="moviehub_widget_pos_14" type="string"></setting>
+    <setting id="userwidget4_limit.label" type="string"></setting>
+    <setting id="moviehub_widget_pos_4" type="string">W_EmbyCon_NewMovies</setting>
+    <setting id="musichub_widget_pos_3" type="string">W_PlayedAlbums</setting>
+    <setting id="moviehubheadline" type="string"></setting>
+    <setting id="embyconmusichub_widget_pos_4.label" type="string">Favourite artists</setting>
+    <setting id="UserWidget4_path" type="string"></setting>
+    <setting id="customdevicename_label" type="string">Wilkommen an Board</setting>
+    <setting id="moviehub_widget_pos_24" type="string"></setting>
+    <setting id="UserWidget10_sortby" type="string"></setting>
     <setting id="customsearchembyid" type="string"></setting>
+    <setting id="tagtvshowhub_widget_pos_4" type="string">W_TagHub_TVShowGenres</setting>
+    <setting id="tvshowhub_widget_pos_25.label" type="string"></setting>
+    <setting id="tagmixedhub_widget_pos_4.label" type="string">Latest TV shows</setting>
+    <setting id="embyconmoviehub_widget_pos_2" type="string">W_EmbyConHub_NewMovies</setting>
+    <setting id="userwidget15_sortby.label" type="string"></setting>
+    <setting id="UserWidget16_layout.label" type="string"></setting>
+    <setting id="color_player_accent" type="string"></setting>
+    <setting id="tvshowhub_widget_pos_30" type="string"></setting>
+    <setting id="UserWidget27_target.label" type="string"></setting>
+    <setting id="UserWidget24_target.label" type="string"></setting>
+    <setting id="moviehub_widget_pos_29" type="string"></setting>
+    <setting id="moviehub_widget_pos_15.label" type="string"></setting>
+    <setting id="embyconmusichub_widget_pos_2" type="string">W_EmbyConHub_PlayedSongs</setting>
+    <setting id="UserWidget14_path" type="string"></setting>
+    <setting id="userwidget28_limit.label" type="string"></setting>
+    <setting id="UserWidget28_limit" type="string"></setting>
+    <setting id="home_widget_pos_2" type="string">W_EmbyCon_NewMovies</setting>
+    <setting id="userwidget26_sortorder.label" type="string"></setting>
+    <setting id="moviehub_widget_pos_18.label" type="string"></setting>
+    <setting id="UserWidget26_limit" type="string"></setting>
+    <setting id="UserWidget11_layout.label" type="string"></setting>
+    <setting id="UserWidget3_limit" type="string"></setting>
+    <setting id="home_widget_pos_21.label" type="string"></setting>
+    <setting id="UserWidget24_limit" type="string"></setting>
+    <setting id="userwidget1_sortby.label" type="string"></setting>
+    <setting id="home_widget_pos_19.label" type="string"></setting>
+    <setting id="userwidget26_limit.label" type="string"></setting>
+    <setting id="tagtvshowhub_widget_pos_7.label" type="string">Suggestions by genre</setting>
+    <setting id="userwidget6_sortby.label" type="string"></setting>
+    <setting id="UserWidget22_sortby" type="string"></setting>
+    <setting id="userwidget12_sortorder.label" type="string"></setting>
+    <setting id="embyconmusichub_widget_pos_1.label" type="string">Latest albums</setting>
+    <setting id="tagmixedhub_widget_pos_3" type="string">W_TagHub_NewMovies</setting>
+    <setting id="UserWidget11_path" type="string"></setting>
+    <setting id="home_widget_pos_26.label" type="string"></setting>
+    <setting id="home_widget_pos_17" type="string"></setting>
+    <setting id="UserWidget27_path" type="string"></setting>
+    <setting id="UserWidget1_target.label" type="string"></setting>
+    <setting id="UserWidget16_path" type="string"></setting>
+    <setting id="home_widget_pos_5" type="string"></setting>
+    <setting id="UserWidget6_sortby" type="string"></setting>
+    <setting id="UserWidget6_target.label" type="string"></setting>
+    <setting id="moviehub_widget_pos_3.label" type="string">Latest movies</setting>
+    <setting id="UserWidget12_name" type="string"></setting>
+    <setting id="embyconmoviehub_widget_pos_4.label" type="string">Random movies</setting>
+    <setting id="UserWidget30_layout.label" type="string"></setting>
+    <setting id="UserWidget9_sortby" type="string"></setting>
+    <setting id="userwidget27_limit.label" type="string"></setting>
+    <setting id="UserWidget6_layout.label" type="string"></setting>
+    <setting id="userwidget2_sortby.label" type="string"></setting>
+    <setting id="moviehub_widget_pos_4.label" type="string">Latest movies   [COLOR lightgrey](EmbyCon node)[/COLOR]</setting>
+    <setting id="tvshowhub_widget_pos_12.label" type="string">Suggestions by genre</setting>
+    <setting id="userwidget26_sortby.label" type="string"></setting>
+    <setting id="UserWidget22_name" type="string"></setting>
+    <setting id="tvshowhub_widget_pos_3" type="string">W_NextUp</setting>
+    <setting id="UserWidget25_sortorder" type="string"></setting>
+    <setting id="UserWidget26_layout.label" type="string"></setting>
+    <setting id="tagtvshowhub_widget_pos_4.label" type="string">Genres</setting>
+    <setting id="tagtvshowhub_widget_pos_8" type="string">W_TagHub_RandomShows</setting>
+    <setting id="userwidget3_limit.label" type="string"></setting>
+    <setting id="UserWidget8_limit" type="string"></setting>
+    <setting id="UserWidget14_name" type="string"></setting>
+    <setting id="tvshowhub_widget_pos_26" type="string"></setting>
+    <setting id="moviehub_widget_pos_11.label" type="string">Suggestions by genre</setting>
+    <setting id="tagmixedhub_widget_pos_8.label" type="string">Recommended movies</setting>
+    <setting id="tvshowhub_widget_pos_6.label" type="string">Latest TV shows   [COLOR lightgrey](EmbyCon node)[/COLOR]</setting>
+    <setting id="UserWidget8_layout.label" type="string"></setting>
+    <setting id="userwidget25_sortby.label" type="string"></setting>
+    <setting id="home_widget_pos_13" type="string"></setting>
+    <setting id="tagmixedhub_widget_pos_1.label" type="string">Continue watching</setting>
+    <setting id="UserWidget5_name" type="string"></setting>
+    <setting id="UserWidget11_sortby" type="string"></setting>
+    <setting id="startupwindow" type="string"></setting>
+    <setting id="UserWidget26_name" type="string"></setting>
+    <setting id="ServiceInterval" type="string"></setting>
+    <setting id="UserWidget24_name" type="string"></setting>
+    <setting id="tvshowhub_widget_pos_16.label" type="string"></setting>
+    <setting id="UserWidget10_path" type="string"></setting>
+    <setting id="tagmixedhub_widget_pos_1" type="string">W_TagHub_InProgress</setting>
+    <setting id="moviehub_widget_pos_24.label" type="string"></setting>
+    <setting id="tvshowhub_widget_pos_23.label" type="string"></setting>
+    <setting id="userwidget29_sortorder.label" type="string"></setting>
+    <setting id="UserWidget17_target.label" type="string"></setting>
+    <setting id="UserWidget24_path" type="string"></setting>
+    <setting id="UserWidget19_limit" type="string"></setting>
+    <setting id="UserWidget13_sortby" type="string"></setting>
+    <setting id="UserWidget3_layout.label" type="string"></setting>
+    <setting id="home_widget_pos_3.label" type="string">Neueste Serien   (EmbyCon Datenbank)</setting>
+    <setting id="IntroPath" type="string"></setting>
+    <setting id="tvshowhub_widget_pos_24" type="string"></setting>
+    <setting id="tvshowhub_widget_pos_13.label" type="string"></setting>
+    <setting id="UserWidget28_sortby" type="string"></setting>
+    <setting id="UserWidget17_limit" type="string"></setting>
+    <setting id="moviehub_widget_pos_20" type="string"></setting>
+    <setting id="UserWidget13_target.label" type="string"></setting>
+    <setting id="embycontvshowhub_widget_pos_6" type="string">W_EmbyConHub_TVShowGenres</setting>
+    <setting id="tvshowhub_widget_pos_11.label" type="string">Recommended TV shows   [COLOR lightgrey](EmbyCon node)[/COLOR]</setting>
+    <setting id="tvshowhub_widget_pos_13" type="string"></setting>
+    <setting id="UserWidget18_target.label" type="string"></setting>
+    <setting id="UserWidget15_layout.label" type="string"></setting>
+    <setting id="home_widget_pos_17.label" type="string"></setting>
+    <setting id="tvshowhub_widget_pos_10.label" type="string">Recommended TV shows</setting>
+    <setting id="embycontvshowhub_widget_pos_1" type="string">W_EmbyConHub_InProgressShows</setting>
+    <setting id="UserWidget28_path" type="string"></setting>
+    <setting id="musichub_widget_pos_3.label" type="string">Recently played albums</setting>
+    <setting id="tvshowhub_widget_pos_3.label" type="string">Next up</setting>
+    <setting id="UserWidget10_limit" type="string"></setting>
+    <setting id="musichub_widget_pos_8" type="string">W_EmbyCon_FavSongs</setting>
+    <setting id="musichub_widget_pos_2" type="string">W_EmbyCon_NewAlbums</setting>
+    <setting id="UserWidget20_sortby" type="string"></setting>
+    <setting id="tagtvshowhub_widget_pos_7" type="string">W_TagHub_TVShowsByGenre</setting>
+    <setting id="embyconmusichub_widget_pos_5.label" type="string">Favourite albums</setting>
+    <setting id="moviehub_widget_pos_6" type="string">W_EmbyCon_MovieGenres</setting>
+    <setting id="home_widget_pos_22" type="string"></setting>
+    <setting id="UserWidget9_name" type="string"></setting>
+    <setting id="userwidget29_sortby.label" type="string"></setting>
+    <setting id="moviehub_widget_pos_18" type="string"></setting>
+    <setting id="epgar" type="string"></setting>
+    <setting id="moviehub_widget_pos_7" type="string">W_RecommendedMovies</setting>
+    <setting id="UserWidget1_layout.label" type="string"></setting>
+    <setting id="userwidget7_sortorder.label" type="string"></setting>
+    <setting id="embycontvshowhub_widget_pos_1.label" type="string">Continue watching</setting>
+    <setting id="UserWidget24_sortby" type="string"></setting>
+    <setting id="UserWidget23_sortorder" type="string"></setting>
+    <setting id="tagmixedhub_widget_pos_5" type="string">W_TagHub_MovieGenres</setting>
+    <setting id="tagtvshowhub_widget_pos_8.label" type="string">Random TV shows</setting>
+    <setting id="tagtvshowhub_widget_pos_6.label" type="string">Because you watched</setting>
+    <setting id="home_widget_pos_14.label" type="string"></setting>
+    <setting id="home_widget_pos_24.label" type="string"></setting>
+    <setting id="userwidget30_sortby.label" type="string"></setting>
+    <setting id="home_widget_pos_3" type="string">W_EmbyCon_NewEpisodes</setting>
+    <setting id="moviehub_widget_pos_19" type="string"></setting>
+    <setting id="tagtvshowhub_widget_pos_3.label" type="string">Latest TV shows</setting>
+    <setting id="musichub_widget_pos_7" type="string">W_EmbyCon_FavAlbums</setting>
+    <setting id="moviehub_widget_pos_16.label" type="string"></setting>
+    <setting id="embyconmoviehub_widget_pos_5" type="string">W_EmbyConHub_MovieGenres</setting>
+    <setting id="moviehub_widget_pos_3" type="string">W_NewMovies</setting>
+    <setting id="staticbackgroundimage" type="string"></setting>
+    <setting id="tagmixedhub_widget_pos_7.label" type="string">Suggestions by genre</setting>
+    <setting id="UserWidget6_path" type="string"></setting>
+    <setting id="UserWidget6_name" type="string"></setting>
+    <setting id="UserWidget19_path" type="string"></setting>
+    <setting id="userwidget24_sortorder.label" type="string"></setting>
+    <setting id="home_widget_pos_20" type="string"></setting>
+    <setting id="UserWidget18_layout.label" type="string"></setting>
+    <setting id="UserWidget28_name" type="string"></setting>
+    <setting id="userwidget16_limit.label" type="string"></setting>
+    <setting id="home_widget_pos_1.label" type="string">Weiterschauen   (EmbyCon Datenbank)</setting>
+    <setting id="embycontvshowhub_widget_pos_3.label" type="string">Latest TV shows</setting>
+    <setting id="UserWidget16_name" type="string"></setting>
+    <setting id="tvshowhub_widget_pos_24.label" type="string"></setting>
+    <setting id="moviehub_widget_pos_25.label" type="string"></setting>
+    <setting id="musichub_widget_pos_8.label" type="string">Favourite songs   [COLOR lightgrey](EmbyCon node)[/COLOR]</setting>
+    <setting id="tvshowhub_widget_pos_4.label" type="string">Next up   [COLOR lightgrey](EmbyCon node)[/COLOR]</setting>
+    <setting id="userwidget11_limit.label" type="string"></setting>
+    <setting id="tvshowhub_widget_pos_23" type="string"></setting>
+    <setting id="moviehub_widget_pos_14.label" type="string"></setting>
+    <setting id="UserWidget7_path" type="string"></setting>
+    <setting id="cinemamodefor" type="string"></setting>
+    <setting id="UserWidget2_sortorder" type="string"></setting>
+    <setting id="UserWidget12_limit" type="string"></setting>
+    <setting id="tagtvshowhub_widget_pos_2" type="string">W_TagHub_NextUp</setting>
+    <setting id="UserWidget20_name" type="string"></setting>
+    <setting id="tagtvshowhub_widget_pos_1" type="string">W_TagHub_InprogressEpisodes</setting>
+    <setting id="tvshowhub_widget_pos_9" type="string">W_SimilarShows</setting>
+    <setting id="userwidget14_limit.label" type="string"></setting>
+    <setting id="embyconmusichub_widget_pos_1" type="string">W_EmbyConHub_NewAlbums</setting>
+    <setting id="userwidget30_sortorder.label" type="string"></setting>
+    <setting id="home_widget_pos_25.label" type="string"></setting>
+    <setting id="UserWidget15_name" type="string"></setting>
+    <setting id="tvshowhub_widget_pos_21.label" type="string"></setting>
+    <setting id="tagtvshowhub_widget_pos_1.label" type="string">Continue watching</setting>
+    <setting id="customsearchterm" type="string">der hobbit</setting>
+    <setting id="wide_widget_limit" type="string"></setting>
+    <setting id="userwidget21_limit.label" type="string"></setting>
+    <setting id="UserWidget25_name" type="string"></setting>
+    <setting id="UserWidget27_layout.label" type="string"></setting>
+    <setting id="UserWidget2_layout.label" type="string"></setting>
+    <setting id="home_widget_pos_21" type="string"></setting>
+    <setting id="tvshowhub_widget_pos_8.label" type="string">Genres   [COLOR lightgrey](EmbyCon node)[/COLOR]</setting>
+    <setting id="tagmoviehub_widget_pos_2" type="string">W_TagHub_NewMovies</setting>
+    <setting id="UserWidget15_sortorder" type="string"></setting>
+    <setting id="moviehub_widget_pos_17" type="string"></setting>
+    <setting id="userwidget20_limit.label" type="string"></setting>
+    <setting id="UserWidget19_sortorder" type="string"></setting>
+    <setting id="UserWidget24_sortorder" type="string"></setting>
+    <setting id="userwidget10_limit.label" type="string"></setting>
+    <setting id="tagmixedhub_widget_pos_6" type="string">W_TagHub_TVShowGenres</setting>
+    <setting id="skinshortcuts-sharedmenu" type="string">true</setting>
+    <setting id="tvshowhub_widget_pos_27" type="string"></setting>
+    <setting id="UserWidget7_sortby" type="string"></setting>
+    <setting id="tagmixedhub_widget_pos_8" type="string">W_TagHub_RecommendedMovies</setting>
+    <setting id="userwidget20_sortorder.label" type="string"></setting>
+    <setting id="tvshowhub_widget_pos_28" type="string"></setting>
+    <setting id="home_widget_pos_2.label" type="string">Neueste Filme   (EmbyCon Datenbank)</setting>
+    <setting id="tvshowhub_widget_pos_15" type="string"></setting>
+    <setting id="tvshowhub_widget_pos_2.label" type="string">Continue watching   [COLOR lightgrey](EmbyCon node)[/COLOR]</setting>
+    <setting id="UserWidget26_sortby" type="string"></setting>
+    <setting id="userwidget16_sortby.label" type="string"></setting>
+    <setting id="UserWidget26_sortorder" type="string"></setting>
+    <setting id="userwidget1_limit.label" type="string"></setting>
+    <setting id="tvshowhub_widget_pos_17.label" type="string"></setting>
+    <setting id="moviehub_widget_pos_13" type="string"></setting>
+    <setting id="home_widget_pos_14" type="string"></setting>
+    <setting id="UserWidget4_limit" type="string"></setting>
+    <setting id="userwidget10_sortorder.label" type="string"></setting>
+    <setting id="tvshowhub_widget_pos_21" type="string"></setting>
+    <setting id="UserWidget9_path" type="string"></setting>
+    <setting id="UserWidget15_sortby" type="string"></setting>
+    <setting id="tagtvshowhub_widget_pos_5" type="string">W_TagHub_RecommendedShows</setting>
+    <setting id="home_widget_pos_8.label" type="string"></setting>
+    <setting id="tvshowhub_widget_pos_19" type="string"></setting>
+    <setting id="moviehub_widget_pos_10.label" type="string">Because you watched   [COLOR lightgrey](EmbyCon node)[/COLOR]</setting>
+    <setting id="UserWidget29_name" type="string"></setting>
+    <setting id="UserWidget3_target.label" type="string"></setting>
+    <setting id="home_widget_pos_31" type="string"></setting>
+    <setting id="tvshowhub_widget_pos_22.label" type="string"></setting>
+    <setting id="userwidget4_sortorder.label" type="string"></setting>
+    <setting id="UserWidget27_sortorder" type="string"></setting>
+    <setting id="tvshowhub_widget_pos_20.label" type="string"></setting>
+    <setting id="tvshowhub_widget_pos_6" type="string">W_EmbyCon_NewEpisodes</setting>
+    <setting id="UserWidget9_layout.label" type="string"></setting>
+    <setting id="userwidget28_sortorder.label" type="string"></setting>
+    <setting id="UserWidget28_target.label" type="string"></setting>
+    <setting id="userwidget19_sortby.label" type="string"></setting>
+    <setting id="UserWidget27_sortby" type="string"></setting>
+    <setting id="UserWidget16_limit" type="string"></setting>
+    <setting id="tagmoviehub_widget_pos_3" type="string">W_TagHub_MovieGenres</setting>
+    <setting id="userwidget14_sortby.label" type="string"></setting>
+    <setting id="UserWidget22_target.label" type="string"></setting>
+    <setting id="tvshowhub_widget_pos_28.label" type="string"></setting>
+    <setting id="UserWidget21_path" type="string"></setting>
+    <setting id="home_widget_pos_10.label" type="string"></setting>
+    <setting id="UserWidget28_sortorder" type="string"></setting>
+    <setting id="musichub_widget_pos_6.label" type="string">Favourite artists   [COLOR lightgrey](EmbyCon node)[/COLOR]</setting>
+    <setting id="userwidget14_sortorder.label" type="string"></setting>
+    <setting id="home_widget_pos_6.label" type="string"></setting>
+    <setting id="tagmixedhub_widget_pos_2.label" type="string">Next up</setting>
+    <setting id="tagmoviehub_widget_pos_6" type="string">W_TagHub_MoviesByGenre</setting>
+    <setting id="embyconmusichub_widget_pos_4" type="string">W_EmbyConHub_FavArtists</setting>
+    <setting id="userwidget3_sortby.label" type="string"></setting>
+    <setting id="moviehub_widget_pos_11" type="string">W_MoviesByGenre</setting>
+    <setting id="UserWidget27_limit" type="string"></setting>
+    <setting id="UserWidget17_path" type="string"></setting>
+    <setting id="tvshowhub_widget_pos_29.label" type="string"></setting>
+    <setting id="UserWidget21_name" type="string"></setting>
+    <setting id="UserWidget4_target.label" type="string"></setting>
+    <setting id="tvshowhub_widget_pos_25" type="string"></setting>
+    <setting id="UserWidget1_sortby" type="string"></setting>
+    <setting id="UserWidget19_sortby" type="string"></setting>
+    <setting id="tagmixedhub_widget_pos_10" type="string">W_TagHub_SimilarMovies</setting>
+    <setting id="embyconmoviehub_widget_pos_1" type="string">W_EmbyConHub_InProgressMovies</setting>
+    <setting id="userwidget18_sortorder.label" type="string"></setting>
+    <setting id="UserWidget5_path" type="string"></setting>
+    <setting id="UserWidget13_limit" type="string"></setting>
+    <setting id="tagmixedhub_widget_pos_12" type="string">W_TagHub_RandomMovies</setting>
+    <setting id="moviehub_widget_pos_12.label" type="string"></setting>
+    <setting id="home_widget_pos_24" type="string"></setting>
+    <setting id="UserWidget4_sortby" type="string"></setting>
+    <setting id="TempItemType" type="string"></setting>
+    <setting id="home_widget_pos_18" type="string"></setting>
+    <setting id="UserWidget23_target.label" type="string"></setting>
+    <setting id="userwidget15_sortorder.label" type="string"></setting>
+    <setting id="tagmoviehub_widget_pos_7" type="string">W_TagHub_RandomMovies</setting>
+    <setting id="embycontvshowhub_widget_pos_4.label" type="string">Recommended TV shows</setting>
+    <setting id="UserWidget18_name" type="string"></setting>
 </settings>
