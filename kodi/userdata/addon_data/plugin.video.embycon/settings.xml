@@ -73,5 +73,5 @@
     <setting id="sort-Series" default="true">0</setting>
     <setting id="sort-Seasons" default="true">0</setting>
     <setting id="sort-Episodes" default="true">0</setting>
-    <setting id="server_speed_check_data" default="true">http://192.168.110.20:8096-614199</setting>
+    <setting id="server_speed_check_data" default="true"></setting>
 </settings>
